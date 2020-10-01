@@ -1,8 +1,8 @@
 
 city_data: city.yevlax
 {
-	city_name: "Yevlakh"
-	city_name_localized: "@@Yevlakh@@"               # "YEVLAX"
+	city_name: "Yevlax"
+	city_name_localized: "@@yevlax@@"
 	country: azerbaijan
 	
 	city_pin_scale_factor[]: 1.0f

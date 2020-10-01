@@ -1,8 +1,8 @@
 
 city_data: city.batumi
 {
-	city_name: "Batumi"
-	city_name_localized: "@@Batumi@@"               # "BATUMI"
+	city_name: "ბათუმი"
+	city_name_localized: "@@batumi@@"
 	country: georgia
 	
 	city_pin_scale_factor[]: 1.0f

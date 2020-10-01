@@ -2,7 +2,7 @@
 city_data: city.gence
 {
 	city_name: "Gence"
-	city_name_localized: "@@Gence@@"               # "GENCE"
+	city_name_localized: "@@gence@@"
 	country: azerbaijan
 	
 	city_pin_scale_factor[]: 1.0f

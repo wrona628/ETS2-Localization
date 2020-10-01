@@ -1,8 +1,8 @@
 
 city_data: city.tbilisi
 {
-	city_name: "Tbilisi"
-	city_name_localized: "@@Tbilisi@@"               # "TBILISI"
+	city_name: "თბილისი"
+	city_name_localized: "@@tbilisi@@"
 	country: georgia
 
 	map_x_offsets[]: 0

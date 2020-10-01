@@ -1,8 +1,8 @@
 
 city_data: city.kutaisi
 {
-	city_name: "Kutaisi"
-	city_name_localized: "@@Kutaisi@@"               # "KUTAISI"
+	city_name: "ქუთაისი"
+	city_name_localized: "@@kutaisi@@"
 	country: georgia
 	
 	city_pin_scale_factor[]: 1.0f

@@ -1,8 +1,8 @@
 
 city_data: city.baku
 {
-	city_name: "Baku"
-	city_name_localized: "@@Baku@@"               # "BAKU"
+	city_name: "Bakı"
+	city_name_localized: "@@baku@@"
 	country: azerbaijan
 
 	map_x_offsets[]: 0
