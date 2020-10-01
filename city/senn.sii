@@ -1,20 +1,20 @@
 city_data: city.senn
 {
 city_name: "Сенной"
-city_name_localized: "Сенной"
+city_name_localized: "@@sennoi@@"
 country: russia
 
 time_zone: 240 # +4 hours in minutes
 time_zone_name: "MSK+1"
 
-city_pin_scale_factor[]: 1.0 
-city_pin_scale_factor[]: 1.0 
-city_pin_scale_factor[]: 0.4 
-city_pin_scale_factor[]: 0.4 
-city_pin_scale_factor[]: 1.0 
-city_pin_scale_factor[]: 1.0 
-city_pin_scale_factor[]: 0.4 
-city_pin_scale_factor[]: 0.4 
+city_pin_scale_factor[]: 1.0f
+city_pin_scale_factor[]: 1.0f
+city_pin_scale_factor[]: 1.0f
+city_pin_scale_factor[]: 1.0f
+city_pin_scale_factor[]: 1.0f
+city_pin_scale_factor[]: 0.9f
+city_pin_scale_factor[]: 0.85f
+city_pin_scale_factor[]: 0.65f
 
 map_x_offsets[]: 0 
 map_x_offsets[]: 0 

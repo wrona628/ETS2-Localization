@@ -1,8 +1,11 @@
 city_data: city.sizran1
 {
-	city_name: "Сызрань1"
-	city_name_localized: "Сызрань"
+	city_name: "Сызрань"
+	city_name_localized: "@@sirzan@@"
 	country: russia
+
+    time_zone: 240
+    time_zone_name: "SAMT"
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

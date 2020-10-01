@@ -2,8 +2,11 @@
 city_data: city.samara
 {
 	city_name: "Самара"
-	city_name_localized: "Самара"
+	city_name_localized: "@@samara@@"
 	country: russia
+
+    time_zone: 240
+    time_zone_name: "SAMT"
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

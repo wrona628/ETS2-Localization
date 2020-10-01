@@ -1,11 +1,11 @@
 city_data: city.tollyatti
 {
 	city_name: "Тольятти"
-	city_name_localized: "Тольятти"
+	city_name_localized: "@@tolyatti@@"
 	country: russia
 
 time_zone: 240 # +4 hours in minutes
-time_zone_name: "MSK+1"
+time_zone_name: "SAMT"
 
 map_x_offsets[]: 0 
 map_x_offsets[]: 0 

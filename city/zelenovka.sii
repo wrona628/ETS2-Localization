@@ -1,7 +1,7 @@
 city_data: city.zelenovka
 {
 	city_name: "Зелёновка"
-	city_name_localized: "Зелёновка"
+	city_name_localized: "@@zelenovka@@"
 	country: russia
 
 	map_x_offsets[]: 0
