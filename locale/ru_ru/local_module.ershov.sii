@@ -1,0 +1,13 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+# Cities
+
+	key[]: "ershov"
+	val[]: "Ершов" 
+	
+
+}
+}
