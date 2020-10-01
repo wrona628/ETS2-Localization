@@ -1,0 +1,186 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+# Cities
+
+	key[]: "aktobe"
+	val[]: "Актобе"
+	
+	key[]: "atyrau"
+	val[]: "Атырау"
+
+	key[]: "uralsk"
+	val[]: "Уральск"
+	
+	key[]: "zhympity"
+	val[]: "Жимпеты"
+	
+	key[]: "dossor"
+	val[]: "Доссор"
+	
+	key[]: "furmanovo"
+	val[]: "Фурманово"
+	
+	key[]: "kobda"
+	val[]: "Кобда"
+	
+	key[]: "kulsari"
+	val[]: "Кульсары"
+	
+	key[]: "beyneu"
+	val[]: "Бейнеу"
+	
+	key[]: "aktau"
+	val[]: "Актау"
+	
+	key[]: "temir"
+	val[]: "Темир"
+	
+	key[]: "makat"
+	val[]: "Макат"
+	
+	key[]: "kandyagash"
+	val[]: "Кандыагаш"
+	
+	key[]: "inderborsky"
+	val[]: "Индерборский"
+	
+	key[]: "karaganda"
+	val[]: "Караганда"
+	
+	key[]: "shahtinsk"
+	val[]: "Шахтинск"
+	
+    key[]: "kievka"
+	val[]: "Киевка"
+
+    key[]: "osakarovka"
+	val[]: "Осакаровка"
+	
+	key[]: "atasu"
+	val[]: "Атасу"
+
+    key[]: "agadyr"
+	val[]: "Агадырь"
+	
+	key[]: "akshatau"
+  	val[]: "Акшатау"
+
+    key[]: "aksuayuly"
+	val[]: "Аксу-Аюлы"
+	
+	key[]: "astana"
+	val[]: "Астана"
+	
+	key[]: "temirtau"
+	val[]: "Темиртау"
+
+    key[]: "saran"
+	val[]: "Сарань"
+	
+	key[]: "zharik"
+  	val[]: "Жарык"
+
+    key[]: "molodezhniy"
+	val[]: "Молодёжный"
+	
+	key[]: "botakara"
+	val[]: "Ботакара"
+	
+	key[]: "korneevka"
+	val[]: "Корнеевка"
+
+    key[]: "karkaralinsk"
+	val[]: "Каркаралинск"
+	
+	key[]: "bayanaul"
+  	val[]: "Баянаул"
+
+    key[]: "balkhash"
+	val[]: "Балхаш" 
+	
+	key[]: "koktenkol"
+	val[]: "Коктенколь"
+	
+	key[]: "ekibastuz"
+	val[]: "Экибастуз"
+	
+	key[]: "kyzylorda"
+	val[]: "Кызылорда"
+
+    key[]: "zhezkazgan"
+	val[]: "Жезказган"
+	
+	key[]: "vishnevka"
+  	val[]: "Вишнёвка"
+
+    key[]: "zhanaozen"
+	val[]: "Жанаозен" 
+	
+	key[]: "akshat"
+	val[]: "Акшат"
+	
+	key[]: "mukur"
+	val[]: "Мукур"
+	
+	key[]: "alga"
+	val[]: "Алга"
+
+    key[]: "shubarkuduk"
+	val[]: "Шубаркудук"
+	
+	key[]: "kostanay"
+  	val[]: "Костанай"
+
+    key[]: "rudnyy"
+	val[]: "Рудный" 
+	
+	key[]: "khromtau"
+	val[]: "Хромтау"
+	
+	key[]: "kokshetau"
+  	val[]: "Кокшетау"
+
+    key[]: "lisakovsk"
+	val[]: "Лисаковск" 
+	
+	key[]: "zatobolsk"
+	val[]: "Затобольск"
+
+	key[]: "karabutak"
+	val[]: "Карабутак"
+	
+	key[]: "saiotes"
+	val[]: "Сайотес"
+	
+	key[]: "mangystau"
+	val[]: "Мангистау"
+	
+	key[]: "shetpe"
+	val[]: "Шетпе"
+	
+	key[]: "turkestan"
+	val[]: "Туркестан"
+	
+	key[]: "shymkent"
+	val[]: "Шымкент"
+	
+	key[]: "aralsk"
+	val[]: "Аральск"
+
+	key[]: "emba"
+	val[]: "Эмба"
+	
+	key[]: "shalkar"
+	val[]: "Шалкар"
+	
+	key[]: "tobol"
+	val[]: "Тобол"
+	
+	key[]: "karabalyk"
+	val[]: "Карабалык"
+	
+}
+}

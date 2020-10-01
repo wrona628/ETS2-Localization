@@ -1,0 +1,182 @@
+
+city_data: city.zhezkazgan
+{
+	city_name: "Zhezkazgan"
+	city_name_localized: "@@zhezkazgan@@"
+	country: kazakhstan
+
+    time_zone: 360		# +6 hours in minutes
+    time_zone_name: "ALMT"
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0 // close zoom for minimap
+	map_x_offsets[]: -3 // far zoom for monimap
+	map_x_offsets[]: 0 // city zoom for world map
+	map_x_offsets[]: 0 // closest zoom for world map
+	map_x_offsets[]: -10 // middle zoom for world map
+	map_x_offsets[]: -15 // whole world map zoom
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 35
+	map_y_offsets[]: -8
+	map_y_offsets[]: 0
+	map_y_offsets[]: -10
+	map_y_offsets[]: -20
+	map_y_offsets[]: -15
+
+	license_plate[]: .zhezkazgan.lp.car
+	license_plate[]: .zhezkazgan.lp.truck
+	license_plate[]: .zhezkazgan.lp.trailer
+	license_plate[]: .zhezkazgan.lp.police
+}
+license_plate_data : .zhezkazgan.lp.car
+{
+	type: car
+
+	templates[]: " 000 111 2"
+
+	def0[]:"0"
+	def0[]:"1"
+	def0[]:"2"
+	def0[]:"3"
+	def0[]:"4"
+	def0[]:"5"
+	def0[]:"6"
+	def0[]:"7"
+	def0[]:"8"
+	def0[]:"9"
+	
+	def1[]:"<font xscale=0.8 yscale=0.8 >A</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >B</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >C</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >D</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >E</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >F</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >G</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >H</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >I</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >J</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >K</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >L</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >M</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >N</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >O</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >P</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >Q</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >R</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >S</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >T</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >U</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >V</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >W</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >X</font>"
+    def1[]:"<font xscale=0.8 yscale=0.8 >Y</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >Z</font>"
+
+	def2[]:"09"
+}
+license_plate_data : .zhezkazgan.lp.truck
+{
+	type: truck
+
+	templates[]: " 000 111 2"
+
+	def1[]:"<font xscale=0.8 yscale=0.8 >A</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >B</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >E</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >K</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >M</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >H</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >O</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >P</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >C</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >T</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >I</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >X</font>"
+
+	def0[]:"0"
+	def0[]:"1"
+	def0[]:"2"
+	def0[]:"3"
+	def0[]:"4"
+	def0[]:"5"
+	def0[]:"6"
+	def0[]:"7"
+	def0[]:"8"
+	def0[]:"9"
+
+	def2[]:"09"
+}
+license_plate_data : .zhezkazgan.lp.trailer
+{
+	type: trailer
+
+	templates[]: " 000 111 2"
+
+	def1[]:"<font xscale=0.8 yscale=0.8 >A</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >B</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >E</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >K</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >M</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >H</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >O</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >P</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >C</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >T</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >I</font>"
+	def1[]:"<font xscale=0.8 yscale=0.8 >X</font>"
+
+	def0[]:"0"
+	def0[]:"1"
+	def0[]:"2"
+	def0[]:"3"
+	def0[]:"4"
+	def0[]:"5"
+	def0[]:"6"
+	def0[]:"7"
+	def0[]:"8"
+	def0[]:"9"
+
+	def2[]:"09"
+}
+license_plate_data : .zhezkazgan.lp.police
+{
+	type: police
+
+	background_front: police_front
+	background_rear: police_rear
+
+	templates[]: "30000425"
+
+	def1[]:"A"
+	def1[]:"B"
+	def1[]:"E"
+	def1[]:"K"
+	def1[]:"M"
+	def1[]:"H"
+	def1[]:"O"
+	def1[]:"P"
+	def1[]:"C"
+	def1[]:"T"
+	def1[]:"I"
+	def1[]:"X"
+
+	def0[]:"0"
+	def0[]:"1"
+	def0[]:"2"
+	def0[]:"3"
+	def0[]:"4"
+	def0[]:"5"
+	def0[]:"6"
+	def0[]:"7"
+	def0[]:"8"
+	def0[]:"9"
+
+	def2[]:"09" # Карагандинская область, Казахстан
+
+	def3[]: "<color value=FFFFFFFF><align right=106>"
+	def4[]: "</align><ret><font xscale=0.9 yscale=0.9><align left=96>"
+	def5[]: "</align></font>"
+}

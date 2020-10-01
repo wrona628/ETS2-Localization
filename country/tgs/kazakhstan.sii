@@ -1,0 +1,34 @@
+country_data: country.data.kazakhstan
+{
+country_id: 64
+
+name: "Казахстан"
+name_localized: "@@kazakhstan@@"
+country_code: "KZ"
+
+pos:(170000, 0, -28000)
+
+fuel_price: 0.44
+
+lights_mandatory: true
+driving_tired_offence: true
+
+time_zone: 360 # +6 hours in minutes
+time_zone_name: "ALMT"
+
+# Уральск area, AQTT, +5 hours
+secondary_time_zone_area[]: (140000.0, 165500.0, -70000.0, -45000.0)
+secondary_time_zone[]: 300
+secondary_time_zone_name[]: "AQTT"
+
+# Уральск area, AQTT, +5 hours
+secondary_time_zone_area[]: (140000.0, 169000.0, -45000.0, -35000.0)
+secondary_time_zone[]: 300
+secondary_time_zone_name[]: "AQTT"
+
+mass_limit_per_axle_count[]: 18000 # 2-axle vehicle
+mass_limit_per_axle_count[]: 25000
+mass_limit_per_axle_count[]: 36000
+mass_limit_per_axle_count[]: 40000
+mass_limit_per_axle_count[]: 44000
+}
