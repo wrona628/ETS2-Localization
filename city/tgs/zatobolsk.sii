@@ -1,7 +1,7 @@
 
 city_data: city.zatobolsk
 {
-	city_name: "Zatobolsk"
+	city_name: "Тобыл"
 	city_name_localized: "@@zatobolsk@@"
 	country: kazakhstan
 

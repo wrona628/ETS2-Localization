@@ -1,7 +1,7 @@
 
 city_data: city.inderborsky
 {
-	city_name: "Inderborsky"
+	city_name: "Индербор"
 	city_name_localized: "@@inderborsky@@"
 	country: kazakhstan
 

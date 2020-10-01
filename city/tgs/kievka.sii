@@ -1,7 +1,7 @@
 
 city_data: city.kievka
 {
-	city_name: "Kievka"
+	city_name: "Киевка"
 	city_name_localized: "@@kievka@@"
 	country: kazakhstan
 

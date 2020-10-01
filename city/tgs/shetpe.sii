@@ -1,7 +1,7 @@
 
 city_data: city.shetpe
 {
-	city_name: "Shetpe"
+	city_name: "Шетпе"
 	city_name_localized: "@@shetpe@@"
 	country: kazakhstan
 

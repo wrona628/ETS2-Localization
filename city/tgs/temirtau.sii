@@ -1,7 +1,7 @@
 
 city_data: city.temirtau
 {
-	city_name: "Temirtau"
+	city_name: "Теміртау"
 	city_name_localized: "@@temirtau@@"
 	country: kazakhstan
 

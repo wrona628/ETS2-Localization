@@ -1,7 +1,7 @@
 
 city_data: city.beyneu
 {
-	city_name: "Beyneu"
+	city_name: "Бейнеу"
 	city_name_localized: "@@beyneu@@"
 	country: kazakhstan
 

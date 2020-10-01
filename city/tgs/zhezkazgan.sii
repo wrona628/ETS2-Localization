@@ -1,7 +1,7 @@
 
 city_data: city.zhezkazgan
 {
-	city_name: "Zhezkazgan"
+	city_name: "Жезказган"
 	city_name_localized: "@@zhezkazgan@@"
 	country: kazakhstan
 

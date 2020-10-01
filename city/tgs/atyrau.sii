@@ -1,7 +1,7 @@
 
 city_data: city.atyrau
 {
-	city_name: "Atyrau"
+	city_name: "Атырау"
 	city_name_localized: "@@atyrau@@"
     country: kazakhstan
 

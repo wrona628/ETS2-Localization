@@ -1,7 +1,7 @@
 
 city_data: city.alga
 {
-	city_name: "Alga"
+	city_name: "Алга"
 	city_name_localized: "@@alga@@"
 	country: kazakhstan
 

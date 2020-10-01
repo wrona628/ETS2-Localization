@@ -1,7 +1,7 @@
 
 city_data: city.karaganda
 {
-	city_name: "Karaganda"
+	city_name: "Караганды"
 	city_name_localized: "@@karaganda@@"
 	country: kazakhstan
 	key_city: true

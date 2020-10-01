@@ -1,7 +1,7 @@
 
 city_data: city.zharik
 {
-	city_name: "Zharik"
+	city_name: "Жарык"
 	city_name_localized: "@@zharik@@"
 	country: kazakhstan
 

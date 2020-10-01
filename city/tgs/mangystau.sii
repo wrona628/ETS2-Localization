@@ -1,7 +1,7 @@
 
 city_data: city.mangystau
 {
-	city_name: "Mangystau"
+	city_name: "Маңгыстау"
 	city_name_localized: "@@mangystau@@"
 	country: kazakhstan
 

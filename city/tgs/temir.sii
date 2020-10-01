@@ -1,7 +1,7 @@
 
 city_data: city.temir
 {
-	city_name: "Temir"
+	city_name: "Темір"
 	city_name_localized: "@@temir@@"
 	country: kazakhstan
 

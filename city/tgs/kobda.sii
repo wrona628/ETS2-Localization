@@ -1,7 +1,7 @@
 
 city_data: city.kobda
 {
-	city_name: "Kobda"
+	city_name: "Кобда"
 	city_name_localized: "@@kobda@@"
 	country: kazakhstan
 

@@ -1,7 +1,7 @@
 
 city_data: city.botakara
 {
-	city_name: "Botakara"
+	city_name: "Ботакара"
     city_name_localized: "@@botakara@@"
 	country: kazakhstan
 

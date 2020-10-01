@@ -1,7 +1,7 @@
 
 city_data: city.saran
 {
-	city_name: "Saran"
+	city_name: "Саран"
 	city_name_localized: "@@saran@@"
 	country: kazakhstan
 

@@ -1,7 +1,7 @@
 
 city_data: city.shalkar
 {
-	city_name: "Shalkar"
+	city_name: "Шалкар"
 	city_name_localized: "@@shalkar@@"
 	country: kazakhstan
 

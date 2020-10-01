@@ -1,7 +1,7 @@
 
 city_data: city.rudnyy
 {
-	city_name: "Rudnyy"
+	city_name: "Рудный"
 	city_name_localized: "@@rudnyy@@"
 	country: kazakhstan
 

@@ -1,7 +1,7 @@
 
 city_data: city.aktau
 {
-	city_name: "Aktau"
+	city_name: "Актау"
 	city_name_localized: "@@aktau@@"
 	country: kazakhstan
 

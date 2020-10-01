@@ -1,7 +1,7 @@
 
 city_data: city.kyzylorda
 {
-	city_name: "Kyzylorda"
+	city_name: "Кызылорда"
 	city_name_localized: "@@kyzylorda@@"
 	country: kazakhstan
 

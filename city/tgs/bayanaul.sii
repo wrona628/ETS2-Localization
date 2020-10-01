@@ -1,7 +1,7 @@
 
 city_data: city.bayanaul
 {
-	city_name: "Bayanaul"
+	city_name: "Баянауыл"
 	city_name_localized: "@@bayanaul@@"
 	country: kazakhstan
 

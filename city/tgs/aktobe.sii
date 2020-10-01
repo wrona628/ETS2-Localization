@@ -1,7 +1,7 @@
 
 city_data: city.aktobe
 {
-	city_name: "Aktobe"
+	city_name: "Актөбе"
 	city_name_localized: "@@aktobe@@"
 	country: kazakhstan
 	key_city: true

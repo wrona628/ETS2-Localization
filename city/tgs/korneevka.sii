@@ -1,7 +1,7 @@
 
 city_data: city.korneevka
 {
-	city_name: "Korneevka"
+	city_name: "Керней"
 	city_name_localized: "@@korneevka@@"
 	country: kazakhstan
 

@@ -1,7 +1,7 @@
 
 city_data: city.uralsk
 {
-	city_name: "Uralsk"
+	city_name: "Орал"
 	city_name_localized: "@@uralsk@@"
 	country: kazakhstan
 	key_city: true

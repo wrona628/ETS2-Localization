@@ -1,7 +1,7 @@
 
 city_data: city.vishnevka
 {
-	city_name: "Vishnevka"
+	city_name: "Вишневка"
 	city_name_localized: "@@vishnevka@@"
 	country: kazakhstan
 

@@ -1,7 +1,7 @@
 
 city_data: city.khromtau
 {
-	city_name: "Khromtau"
+	city_name: "Хромтау"
 	city_name_localized: "@@khromtau@@"
 	country: kazakhstan
 

@@ -1,7 +1,7 @@
 
 city_data: city.furmanovo
 {
-	city_name: "Furmanovo"
+	city_name: "Фурманово"
 	city_name_localized: "@@furmanovo@@"
 	country: kazakhstan
 

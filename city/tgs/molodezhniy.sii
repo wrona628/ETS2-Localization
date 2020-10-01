@@ -1,7 +1,7 @@
 
 city_data: city.molodezhniy
 {
-	city_name: "Molodezhniy"
+	city_name: "Молодежный"
 	city_name_localized: "@@molodezhniy@@"
 	country: kazakhstan
 

@@ -1,7 +1,7 @@
 ﻿
 city_data: city.vzletnyy
 {
-	city_name: "Vzletnyy"
+	city_name: "Взлетный"
 	city_name_localized: "@@vzletnyy@@"
 	country: russia
 

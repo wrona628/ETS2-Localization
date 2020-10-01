@@ -1,7 +1,7 @@
 
 city_data: city.ekibastuz
 {
-	city_name: "Ekibastuz"
+	city_name: "Екібастұз"
 	city_name_localized: "@@ekibastuz@@"
 	country: kazakhstan
 

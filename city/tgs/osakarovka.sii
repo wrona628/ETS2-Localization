@@ -1,7 +1,7 @@
 
 city_data: city.osakarovka
 {
-	city_name: "Osakarovka"
+	city_name: "Осакаровка"
 	city_name_localized: "@@osakarovka@@"
 	country: kazakhstan
 

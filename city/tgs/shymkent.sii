@@ -1,7 +1,7 @@
 
 city_data: city.shymkent
 {
-	city_name: "Shymkent"
+	city_name: "Шымкент"
 	city_name_localized: "@@shymkent@@"
 	country: kazakhstan
 

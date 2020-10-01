@@ -1,7 +1,7 @@
 
 city_data: city.kostanay
 {
-	city_name: "Kostanay"
+	city_name: "Костанай"
 	city_name_localized: "@@kostanay@@"
 	country: kazakhstan
 	key_city: true

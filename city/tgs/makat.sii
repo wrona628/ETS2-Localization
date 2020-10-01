@@ -1,7 +1,7 @@
 
 city_data: city.makat
 {
-	city_name: "Makat"
+	city_name: "Макат"
 	city_name_localized: "@@makat@@"
 	country: kazakhstan
 

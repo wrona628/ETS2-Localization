@@ -1,7 +1,7 @@
 
 city_data: city.balkhash
 {
-	city_name: "Balkhash"
+	city_name: "Балкаш"
 	city_name_localized: "@@balkhash@@"
 	country: kazakhstan
 

@@ -1,7 +1,7 @@
 
 city_data: city.koktenkol
 {
-	city_name: "Koktenkol"
+	city_name: "Көктіңкөлі"
 	city_name_localized: "@@koktenkol@@"
 	country: kazakhstan
 

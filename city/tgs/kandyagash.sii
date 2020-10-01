@@ -1,7 +1,7 @@
 
 city_data: city.kandyagash
 {
-	city_name: "Kandyagash"
+	city_name: "Кандыагаш"
 	city_name_localized: "@@kandyagash@@"
 	country: kazakhstan
 

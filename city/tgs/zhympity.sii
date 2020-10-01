@@ -1,7 +1,7 @@
 
 city_data: city.zhympity
 {
-	city_name: "Zhympity"
+	city_name: "Жымпиты"
 	city_name_localized: "@@zhympity@@"
 	country: kazakhstan
 

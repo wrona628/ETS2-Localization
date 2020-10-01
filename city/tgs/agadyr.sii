@@ -1,7 +1,7 @@
 
 city_data: city.agadyr
 {
-	city_name: "Agadyr"
+	city_name: "Акадыр"
 	city_name_localized: "@@agadyr@@"
 	country: kazakhstan
 

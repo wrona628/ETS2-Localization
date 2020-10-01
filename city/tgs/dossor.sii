@@ -1,7 +1,7 @@
 
 city_data: city.dossor
 {
-	city_name: "Dossor"
+	city_name: "Доссор"
 	city_name_localized: "@@dossor@@"
 	country: kazakhstan
 

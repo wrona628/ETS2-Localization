@@ -1,7 +1,7 @@
 
 city_data: city.shahtinsk
 {
-	city_name: "Shahtinsk"
+	city_name: "Шахтинск"
 	city_name_localized: "@@shahtinsk@@"
 	country: kazakhstan
 

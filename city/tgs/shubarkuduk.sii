@@ -1,7 +1,7 @@
 
 city_data: city.shubarkuduk
 {
-	city_name: "Shubarkuduk"
+	city_name: "Шұбаркұдык"
 	city_name_localized: "@@shubarkuduk@@"
 	country: kazakhstan
 

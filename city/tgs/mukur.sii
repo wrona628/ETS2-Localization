@@ -1,7 +1,7 @@
 
 city_data: city.mukur
 {
-	city_name: "Mukur"
+	city_name: "Мұкыр"
 	city_name_localized: "@@mukur@@"
 	country: kazakhstan
 
