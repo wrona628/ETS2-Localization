@@ -1,0 +1,17 @@
+
+country_data: country.data.syria
+{
+	name: "Syria"
+	name_localized: "@@Syria@@"
+	country_code: "SYR"
+	pos:(128000, 0, 80000)
+	fuel_price: 0.47
+	country_id: 83
+	lights_mandatory: false
+	leftside_traffic: false
+	driving_tired_offence: true
+
+	time_zone: 180		# +3 hours in minutes
+	time_zone_name: "@@EEST@@"
+}
+
