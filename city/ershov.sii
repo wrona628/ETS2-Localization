@@ -1,7 +1,7 @@
 
 city_data: city.ershov
 {
-	city_name: "Ershov"
+	city_name: "Ершов"
 	city_name_localized: "@@ershov@@"
 	country: russia
 
