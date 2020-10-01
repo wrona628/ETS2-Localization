@@ -1,7 +1,7 @@
 city_data: city.melitopol
 {
 	city_name: "Мелiтополь"
-	city_name_localized: "@@Мелiтополь@@" 
+	city_name_localized: "@@melitopol@@" 
 	country: ukraine
 	
 	city_pin_scale_factor[]: 1.0f

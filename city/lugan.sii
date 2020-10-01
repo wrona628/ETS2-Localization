@@ -1,7 +1,7 @@
 city_data: city.lugan
 {
 	city_name: "Луганськ"
-	city_name_localized: "@@Луганськ@@"
+	city_name_localized: "@@luhansk@@"
 	country: ukraine
 
 	map_x_offsets[]: 0

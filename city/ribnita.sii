@@ -1,7 +1,7 @@
 ﻿city_data: city.ribnita
 {
 	city_name: "Rîbniţa"
-	city_name_localized: "@@Rîbniţa@@" 
+	city_name_localized: "@@ribnita@@" 
 	country: moldova
 	
 	city_pin_scale_factor[]: 0.8f

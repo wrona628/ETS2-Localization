@@ -1,7 +1,7 @@
 city_data: city.rivnne
 {
 	city_name: "Рiвне"
-	city_name_localized: "@@Рiвне@@"
+	city_name_localized: "@@rivne@@"
 	country: ukraine
 	
 	city_pin_scale_factor[]: 1.0f

@@ -1,7 +1,7 @@
 city_data: city.luttsk
 {
 	city_name: "Луцьк"
-	city_name_localized: "@@Луцьк@@"
+	city_name_localized: "@@lutsk@@"
 	country: ukraine
 	
 	city_pin_scale_factor[]: 1.0f

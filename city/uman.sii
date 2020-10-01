@@ -1,7 +1,7 @@
 city_data: city.uman
 {
 	city_name: "Умань"
-	city_name_localized: "@@Умань@@" 
+	city_name_localized: "@@uman@@" 
 	country: ukraine
 	
 	city_pin_scale_factor[]: 1.0f

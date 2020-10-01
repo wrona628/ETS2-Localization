@@ -1,7 +1,7 @@
 city_data: city.cherk
 {
 	city_name: "Черкаси"
-	city_name_localized: "@@Черкаси@@" 
+	city_name_localized: "@@cherkasy@@" 
 	country: ukraine
 
 city_pin_scale_factor[]: 1.0f

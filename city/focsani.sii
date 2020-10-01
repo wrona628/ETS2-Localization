@@ -1,7 +1,7 @@
 ﻿city_data: city.focsani
 {
 	city_name: "Focşani"
-	city_name_localized: "@@Focşani@@" 
+	city_name_localized: "@@focsani@@" 
 	country: romania
 	
 	city_pin_scale_factor[]: 1.0f

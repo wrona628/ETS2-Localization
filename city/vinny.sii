@@ -1,7 +1,7 @@
 city_data: city.vinny
 {
 	city_name: "Вiнниця"
-	city_name_localized: "@@Вiнниця@@" 
+	city_name_localized: "@@vinnytsia@@" 
 	country: ukraine
 	
 	city_pin_scale_factor[]: 1.0f

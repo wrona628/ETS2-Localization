@@ -1,7 +1,7 @@
 city_data: city.novogradd
 {
 	city_name: "Новоград-Волинський"
-	city_name_localized: "@@Новоград-Волинський@@"
+	city_name_localized: "@@novogradd@@"
 	country: ukraine
 	
 	city_pin_scale_factor[]: 0.8f

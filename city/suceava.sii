@@ -1,7 +1,7 @@
 ﻿city_data: city.suceava
 {
 	city_name: "Suceava"
-	city_name_localized: "@@Suceava@@" 
+	city_name_localized: "@@suceava@@" 
 	country: romania
 
 	map_x_offsets[]: 0

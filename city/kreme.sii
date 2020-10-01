@@ -1,7 +1,7 @@
 city_data: city.kreme
 {
 	city_name: "Кременчук"
-	city_name_localized: "@@Кременчук@@"
+	city_name_localized: "@@kremenchuk@@"
 	country: ukraine
 
 	city_pin_scale_factor[]: 1.0f

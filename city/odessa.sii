@@ -1,7 +1,7 @@
 city_data: city.odessa
 {
 	city_name: "Одеса"
-	city_name_localized: "@@Одеса@@" 
+	city_name_localized: "@@odessa@@" 
 	country: ukraine
 
 	map_x_offsets[]: 0

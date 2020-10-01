@@ -2,7 +2,7 @@
 city_data: city.belgor
 {
 	city_name: "Белгород"
-	city_name_localized: "@@Белгород@@"
+	city_name_localized: "@@belgorod@@"
 	country: russia
 	
 	city_pin_scale_factor[]: 1.0f

@@ -2,7 +2,7 @@
 city_data: city.troyeb
 {
 	city_name: "Троебортное"
-	city_name_localized: "@@Троебортное@@"
+	city_name_localized: "@@troyebortnoye@@"
 	country: russia
 
 	map_x_offsets[]: 0

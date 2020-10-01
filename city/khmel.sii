@@ -1,7 +1,7 @@
 city_data: city.khmel
 {
 	city_name: "Хмельницький"
-	city_name_localized: "@@Хмельницький@@" 
+	city_name_localized: "@@khmelnytskyi@@" 
 	country: ukraine
 	
 	city_pin_scale_factor[]: 1.0f

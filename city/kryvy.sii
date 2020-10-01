@@ -1,7 +1,7 @@
 city_data: city.kryvy
 {
-	city_name: "Кривий Рiг"
-	city_name_localized: "@@Кривий Рiг@@" 
+	city_name: "Кривий Ріг"
+	city_name_localized: "@@kryvy@@" 
 	country: ukraine
 
 	map_x_offsets[]: 0

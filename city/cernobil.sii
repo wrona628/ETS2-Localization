@@ -1,7 +1,7 @@
 city_data: city.cernobil
 {
 	city_name: "Чорнобиль"
-	city_name_localized: "@@Чорнобиль@@"
+	city_name_localized: "@@chornobyl@@"
 	country: ukraine
 	
 	city_pin_scale_factor[]: 0.8f

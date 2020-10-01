@@ -1,7 +1,7 @@
 city_data: city.kerson
 {
 	city_name: "Херсон"
-	city_name_localized: "@@Херсон@@"
+	city_name_localized: "@@kherson@@"
 	country: ukraine
 	
 	city_pin_scale_factor[]: 1.0f

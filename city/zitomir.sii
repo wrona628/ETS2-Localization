@@ -1,7 +1,7 @@
 city_data: city.zitomir
 {
 	city_name: "Житомир"
-	city_name_localized: "@@Житомир@@"
+	city_name_localized: "@@zhytomyr@@"
 	country: ukraine
 	
 	city_pin_scale_factor[]: 1.0f

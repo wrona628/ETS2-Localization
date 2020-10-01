@@ -1,7 +1,7 @@
 city_data: city.uzgor
 {
 	city_name: "Ужгород"
-	city_name_localized: "@@Ужгород@@" 
+	city_name_localized: "@@uzhhorod@@" 
 	country: ukraine
 	
 	city_pin_scale_factor[]: 1.0f

@@ -2,7 +2,7 @@
 city_data: city.krupets
 {
 	city_name: "Крупец"
-	city_name_localized: "Крупец"
+	city_name_localized: "krupets"
 	country: russia
 	
 	map_x_offsets[]: 0

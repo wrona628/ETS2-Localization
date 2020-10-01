@@ -1,7 +1,7 @@
 city_data: city.vozne
 {
 	city_name: "Вознесенськ"
-	city_name_localized: "@@Вознесенськ@@" 
+	city_name_localized: "@@vozne@@" 
 	country: ukraine
 	
 	city_pin_scale_factor[]: 0.8f

@@ -1,7 +1,7 @@
 city_data: city.kharkiv
 {
 	city_name: "Харкiв"
-	city_name_localized: "@@Харкiв@@"
+	city_name_localized: "@@kharkiv@@"
 	country: ukraine
 
 	map_x_offsets[]: 0

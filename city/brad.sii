@@ -2,7 +2,7 @@
 city_data : city.brad
 {
 	city_name: "Brad"
-	city_name_localized: "@@Brad@@"
+	city_name_localized: "@@brad@@"
 	country: romania
 
 	## City pin and name scale factor sets size of city pin and name text on UI map.

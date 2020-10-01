@@ -1,7 +1,7 @@
 ﻿city_data: city.sibiu
 {
 	city_name: "Sibiu"
-	city_name_localized: "@@Sibiu@@" 
+	city_name_localized: "@@sibiu@@" 
 	country: romania
 	
 	map_x_offsets[]: 0

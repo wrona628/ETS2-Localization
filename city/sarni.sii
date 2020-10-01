@@ -1,7 +1,7 @@
 city_data: city.sarni
 {
 	city_name: "Сарни"
-	city_name_localized: "@@Сарни@@"
+	city_name_localized: "@@sarny@@"
 	country: ukraine
 	city_pin_scale_factor[]: 0.7f
 	city_pin_scale_factor[]: 0.7f

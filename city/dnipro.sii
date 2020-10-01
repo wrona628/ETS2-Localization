@@ -1,7 +1,7 @@
 city_data: city.dnipro
 {
-	city_name: "Днiпрo"
-	city_name_localized: "@@Днiпрo@@"
+	city_name: "Дніпро"
+	city_name_localized: "@@dnipro@@"
 	country: ukraine
 
 	map_x_offsets[]: 0

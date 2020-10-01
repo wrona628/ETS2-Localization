@@ -1,7 +1,7 @@
 city_data: city.donesk
 {
 	city_name: "Донецьк"
-	city_name_localized: "@@Донецьк@@"
+	city_name_localized: "@@donetsk@@"
 	country: ukraine
 
 	map_x_offsets[]: 0

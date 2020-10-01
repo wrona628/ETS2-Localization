@@ -2,7 +2,7 @@
 city_data: city.rahova
 {
 	city_name: "Оряхово"
-	city_name_localized: "@@Оряхово@@" 
+	city_name_localized: "@@oryahovo@@" 
 	country: bulgaria
 	
 	city_pin_scale_factor[]: 0.8f

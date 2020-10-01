@@ -1,7 +1,7 @@
 city_data: city.konotop
 {
 	city_name: "Конотоп"
-	city_name_localized: "@@Конотоп@@"
+	city_name_localized: "@@konotop@@"
 	country: ukraine
 	
 	city_pin_scale_factor[]: 0.8f

@@ -1,7 +1,7 @@
 ﻿city_data: city.tiraspol
 {
 	city_name: "Tiraspol"
-	city_name_localized: "@@Tiraspol@@" 
+	city_name_localized: "@@tiraspol@@" 
 	country: moldova
 	
 	city_pin_scale_factor[]: 1.0f

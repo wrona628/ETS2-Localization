@@ -1,7 +1,7 @@
 city_data: city.zappo
 {
 	city_name: "Запорiжжя"
-	city_name_localized: "@@Запорiжжя@@" 
+	city_name_localized: "@@zaporizhzhia@@" 
 	country: ukraine
 
 	map_x_offsets[]: 0

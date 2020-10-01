@@ -1,7 +1,7 @@
 city_data: city.sumy
 {
 	city_name: "Суми"
-	city_name_localized: "@@Суми@@"
+	city_name_localized: "@@sumy@@"
 	country: ukraine
 	
 	city_pin_scale_factor[]: 0.8f

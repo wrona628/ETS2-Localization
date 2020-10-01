@@ -1,7 +1,7 @@
 city_data: city.ivan
 {
 	city_name: "Iвано-Франкiвськ"
-	city_name_localized: "@@Iвано-Франкiвськ@@" 
+	city_name_localized: "@@ivan_fran@@" 
 	country: ukraine
 	
 	city_pin_scale_factor[]: 1.0f

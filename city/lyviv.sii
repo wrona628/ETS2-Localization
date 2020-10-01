@@ -1,7 +1,7 @@
 city_data: city.lyviv
 {
 	city_name: "Львiв"
-	city_name_localized: "@@Львiв@@" 
+	city_name_localized: "@@lviv@@" 
 	country: ukraine
 	
 	city_pin_scale_factor[]: 1.1f

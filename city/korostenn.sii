@@ -1,7 +1,7 @@
 city_data: city.korostenn
 {
 	city_name: "Коростень"
-	city_name_localized: "@@Коростень@@" 
+	city_name_localized: "@@korostenn@@" 
 	country: ukraine
 	
 	city_pin_scale_factor[]: 0.8f

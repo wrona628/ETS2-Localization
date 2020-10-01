@@ -1,7 +1,7 @@
 city_data: city.berdy
 {
 	city_name: "Бердянськ"
-	city_name_localized: "@@Бердянськ@@" 
+	city_name_localized: "@@berdy@@" 
 	country: ukraine
 	
 	city_pin_scale_factor[]: 0.8f

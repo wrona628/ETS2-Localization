@@ -1,7 +1,7 @@
 city_data: city.cernaut
 {
 	city_name: "Чернiвцi"
-	city_name_localized: "@@Чернiвцi@@" 
+	city_name_localized: "@@chernivtsi@@" 
 	country: ukraine
 	
 	city_pin_scale_factor[]: 1.0f

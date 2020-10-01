@@ -1,7 +1,7 @@
 city_data: city.cernihiv
 {
 	city_name: "Чернiгiв"
-	city_name_localized: "@@Чернiгiв@@"
+	city_name_localized: "@@chernihiv@@"
 	country: ukraine
 	
 	city_pin_scale_factor[]: 1.0f

@@ -1,7 +1,7 @@
 city_data: city.kropy
 {
 	city_name: "Кропивницький"
-	city_name_localized: "@@Кропивницький@@" 
+	city_name_localized: "@@kropyvnytskyi@@" 
 	country: ukraine
 	
 	city_pin_scale_factor[]: 1.0f

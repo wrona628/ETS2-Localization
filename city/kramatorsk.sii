@@ -1,7 +1,7 @@
 city_data: city.kramatorsk
 {
 	city_name: "Краматорськ"
-	city_name_localized: "@@Краматорськ@@"
+	city_name_localized: "@@kramatorsk@@"
 	country: ukraine
 	
 	city_pin_scale_factor[]: 0.8f

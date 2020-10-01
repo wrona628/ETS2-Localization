@@ -1,7 +1,7 @@
 ﻿city_data: city.chisina
 {
 	city_name: "Chişinău"
-	city_name_localized: "@@Chişinău@@" 
+	city_name_localized: "@@chisina@@" 
 	country: moldova
 	
 	city_pin_scale_factor[]: 1.2f

@@ -1,7 +1,7 @@
 city_data: city.poltava
 {
 	city_name: "Полтава"
-	city_name_localized: "@@Полтава@@"
+	city_name_localized: "@@poltava@@"
 	country: ukraine
 
 	map_x_offsets[]: 0

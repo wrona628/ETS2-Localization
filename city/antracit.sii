@@ -1,7 +1,7 @@
 city_data: city.antracit
 {
 	city_name: "Антрацит"
-	city_name_localized: "@@Антрацит@@"
+	city_name_localized: "@@antracit@@"
 	country: ukraine
 
 	city_pin_scale_factor[]: 0.8f

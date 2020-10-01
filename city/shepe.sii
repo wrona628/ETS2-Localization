@@ -1,7 +1,7 @@
 city_data: city.shepe
 {
 	city_name: "Шепетiвка"
-	city_name_localized: "@@Шепетiвка@@" 
+	city_name_localized: "@@shepetivka@@" 
 	country: ukraine
 	
 	city_pin_scale_factor[]: 0.8f

@@ -1,7 +1,7 @@
 city_data: city.stry
 {
 	city_name: "Стрий"
-	city_name_localized: "@@Стрий@@"
+	city_name_localized: "@@stryi@@"
 	country: ukraine
 	
 	city_pin_scale_factor[]: 0.8f

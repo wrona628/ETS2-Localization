@@ -1,7 +1,7 @@
 ﻿city_data: city.tgjiu
 {
 	city_name: "Târgu Jiu"
-	city_name_localized: "@@Târgu Jiu@@" 
+	city_name_localized: "@@tgjiu@@" 
 	country: romania
 	
 	city_pin_scale_factor[]: 1.0f

@@ -1,7 +1,7 @@
 ﻿city_data: city.buzau
 {
 	city_name: "Buzău"
-	city_name_localized: "@@Buzău@@" 
+	city_name_localized: "@@buzau@@" 
 	country: romania
 	
 	city_pin_scale_factor[]: 1.0f

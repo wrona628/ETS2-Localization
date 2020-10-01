@@ -1,7 +1,7 @@
 ﻿city_data: city.bechet
 {
 	city_name: "Bechet"
-	city_name_localized: "@@Bechet@@"
+	city_name_localized: "@@bechet@@"
 	country: romania
 	
 	city_pin_scale_factor[]: 0.7

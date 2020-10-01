@@ -1,7 +1,7 @@
 city_data: city.pervom
 {
 	city_name: "Первомайськ"
-	city_name_localized: "@@Первомайськ@@"
+	city_name_localized: "@@pervom@@"
 	country: ukraine
 	
 	city_pin_scale_factor[]: 0.8f

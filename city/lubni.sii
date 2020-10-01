@@ -1,7 +1,7 @@
 city_data: city.lubni
 {
 	city_name: "Лубни"
-	city_name_localized: "@@Лубни@@"
+	city_name_localized: "@@lubny@@"
 	country: ukraine
 	
 	city_pin_scale_factor[]: 0.8f

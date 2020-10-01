@@ -1,7 +1,7 @@
 city_data: city.mukac
 {
 	city_name: "Мукачево"
-	city_name_localized: "@@Мукачево@@" 
+	city_name_localized: "@@mukachevo@@" 
 	country: ukraine
 	
 	city_pin_scale_factor[]: 1.0f

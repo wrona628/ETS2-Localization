@@ -1,7 +1,7 @@
 city_data: city.novak
 {
 	city_name: "Нова Каховка"
-	city_name_localized: "@@Нова Каховка@@"
+	city_name_localized: "@@novak@@"
 	country: ukraine
 	
 	city_pin_scale_factor[]: 0.8f

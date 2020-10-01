@@ -1,7 +1,7 @@
 city_data: city.kovell
 {
 	city_name: "Ковель"
-	city_name_localized: "@@Ковель@@"
+	city_name_localized: "@@kovell@@"
 	country: ukraine
 	
 	city_pin_scale_factor[]: 0.8f

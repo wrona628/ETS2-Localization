@@ -2,7 +2,7 @@
 city_data: city.naroulia
 {
 	city_name: "Нароўля"
-	city_name_localized: "@@Нароўля@@"
+	city_name_localized: "@@naroulia@@"
 	country: belarus
 
 	map_x_offsets[]: 0

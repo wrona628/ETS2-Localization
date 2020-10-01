@@ -1,7 +1,7 @@
 city_data: city.bilaterca
 {
 	city_name: "Бiла Церква"
-	city_name_localized: "@@Бiла Церква@@"
+	city_name_localized: "@@bilaterca@@"
 	country: ukraine
 	
 	city_pin_scale_factor[]: 0.9f
