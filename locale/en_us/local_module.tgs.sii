@@ -15,8 +15,8 @@ localization_db : .localization
 
 
 	#KAZAHSTAN
-		key[]: "kazahstan"
-		val[]: "Kazahstan"
+		key[]: "kazakhstan"
+		val[]: "Kazakhstan"
 
 
 		key[]: "agadyr"
@@ -152,7 +152,7 @@ localization_db : .localization
 		val[]: "Saran"
 
 		key[]: "shahtinsk"
-		val[]: "Shahtinsk"
+		val[]: "Shakhtinsk"
 
 		key[]: "shalkar"
 		val[]: "Shalkar"
