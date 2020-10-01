@@ -2,7 +2,7 @@ city_data:city.kamensk
 {
 	city_name: "Каменск-Шахтинский"
 	
-	city_name_localized: "Каменск-Шахтинский"
+	city_name_localized: "@@kamensk@@"
 	country: russia
 	
 	city_pin_scale_factor[]: 1.0f
@@ -10,7 +10,7 @@ city_data:city.kamensk
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.65f
+	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 0.65f
 	city_pin_scale_factor[]: 0.0f
 

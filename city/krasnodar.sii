@@ -2,7 +2,7 @@ city_data:city.krasnodar
 {
 	city_name: "Краснодар"
 	
-	city_name_localized: "Краснодар"
+	city_name_localized: "@@krasnodar@@"
 	country: russia
 
 	map_x_offsets[]: 0

@@ -1,15 +1,15 @@
 city_data:city.azsluk1
 {
 	city_name: "АЗС Лукойл N1"
-	city_name_localized: "АЗС Лукойл N1"
+	city_name_localized: "@@lukoil1@@"
 	country: russia
 
-	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.4f
+	city_pin_scale_factor[]: 0.5f
+	city_pin_scale_factor[]: 0.0f
+	city_pin_scale_factor[]: 0.0f
+	city_pin_scale_factor[]: 0.0f
+	city_pin_scale_factor[]: 0.0f
+	city_pin_scale_factor[]: 0.0f
 	city_pin_scale_factor[]: 0.0f
 	city_pin_scale_factor[]: 0.0f
 	

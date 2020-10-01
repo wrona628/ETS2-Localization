@@ -2,7 +2,7 @@ city_data:city.varen
 {
 	city_name: "Варениковская"
 	
-	city_name_localized: "Варениковская"
+	city_name_localized: "@@varen@@"
 	country: russia
 
 	city_pin_scale_factor[]: 1.0f
@@ -10,7 +10,7 @@ city_data:city.varen
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.6f
+	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 0.65f
 	city_pin_scale_factor[]: 0.0f
 	

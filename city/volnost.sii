@@ -2,7 +2,7 @@ city_data:city.volnost
 {
 	city_name: "Вольность"
 	
-	city_name_localized: "Вольность"
+	city_name_localized: "@@volnost@@"
 	country: russia
 
 	city_pin_scale_factor[]: 1.0f
@@ -10,8 +10,8 @@ city_data:city.volnost
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.4f
-	city_pin_scale_factor[]: 0.0f
+	city_pin_scale_factor[]: 1.0f
+	city_pin_scale_factor[]: 0.65f
 	city_pin_scale_factor[]: 0.5f
 	
 	map_x_offsets[]: 0

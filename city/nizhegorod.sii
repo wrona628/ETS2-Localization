@@ -1,7 +1,7 @@
 city_data:city.nizhegorod
 {
 	city_name: "Нижегородская"
-	city_name_localized: "Нижегородская"
+	city_name_localized: "@@nizhegorod@@"
 	country: russia
 
 	city_pin_scale_factor[]: 1.0f
@@ -9,8 +9,8 @@ city_data:city.nizhegorod
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.4f
-	city_pin_scale_factor[]: 0.4f
+	city_pin_scale_factor[]: 1.0f
+	city_pin_scale_factor[]: 0.65f
 	city_pin_scale_factor[]: 0.4f
 	
 	map_x_offsets[]: 0

@@ -2,7 +2,7 @@ city_data:city.nevinnomyssk
 {
 	city_name: "Невинномысск"
 	
-	city_name_localized: "Невинномысск"
+	city_name_localized: "@@nevinnomyssk@@"
 	country: russia
 
     city_pin_scale_factor[]: 1.0f
@@ -10,7 +10,7 @@ city_data:city.nevinnomyssk
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.65f
+	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 0.65f
 	city_pin_scale_factor[]: 0.5f
 	

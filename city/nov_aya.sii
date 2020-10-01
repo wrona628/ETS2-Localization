@@ -2,7 +2,7 @@ city_data:city.nov_aya
 {
 	city_name: "Новопокровская"
 	
-	city_name_localized: "Новопокровская"
+	city_name_localized: "@@nov_aya@@"
 	country: russia
 
 	city_pin_scale_factor[]: 1.0f
@@ -10,8 +10,8 @@ city_data:city.nov_aya
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.4f
-	city_pin_scale_factor[]: 0.0f
+	city_pin_scale_factor[]: 1.0f
+	city_pin_scale_factor[]: 0.65f
 	city_pin_scale_factor[]: 0.4f
 	
 	map_x_offsets[]: 0

@@ -2,7 +2,7 @@ city_data:city.shahtu
 {
 	city_name: "Шахты"
 	
-	city_name_localized: "Шахты"
+	city_name_localized: "@@shahtu@@"
 	country: russia
 
 	map_x_offsets[]: 0

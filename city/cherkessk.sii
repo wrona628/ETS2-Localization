@@ -2,7 +2,7 @@ city_data:city.cherkessk
 {
 	city_name: "Черкесск"
 	
-	city_name_localized: "Черкесск"
+	city_name_localized: "@@cherkessk@@"
 	country: russia
 
     city_pin_scale_factor[]: 1.0f

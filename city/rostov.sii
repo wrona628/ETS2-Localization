@@ -2,7 +2,7 @@ city_data:city.rostov
 {
 	city_name: "Ростов-на-Дону"
 	
-	city_name_localized: "Ростов-на-Дону"
+	city_name_localized: "@@rostov@@"
 	country: russia
 
 	map_x_offsets[]: 0

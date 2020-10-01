@@ -2,7 +2,7 @@ city_data:city.dshubga
 {
 	city_name: "Джубга"
 	
-	city_name_localized: "Джубга"
+	city_name_localized: "@@dshubga@@"
 	country: russia
 	
 	city_pin_scale_factor[]: 1.0f
@@ -10,8 +10,8 @@ city_data:city.dshubga
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.5f
-	city_pin_scale_factor[]: 0.5f
+	city_pin_scale_factor[]: 1.0f
+	city_pin_scale_factor[]: 0.65f
 	city_pin_scale_factor[]: 0.5f
 
 	map_x_offsets[]: 0

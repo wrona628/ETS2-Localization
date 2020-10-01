@@ -2,7 +2,7 @@ city_data:city.dombai
 {
 	city_name: "Домбай"
 	
-	city_name_localized: "Домбай"
+	city_name_localized: "@@dombai@@"
 	country: russia
 
 	city_pin_scale_factor[]: 1.0f
@@ -10,8 +10,8 @@ city_data:city.dombai
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.4f
-	city_pin_scale_factor[]: 0.4f
+	city_pin_scale_factor[]: 1.0f
+	city_pin_scale_factor[]: 0.65f
 	city_pin_scale_factor[]: 0.5f
 	
 	map_x_offsets[]: 0

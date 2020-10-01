@@ -2,7 +2,7 @@ city_data:city.korenovsk
 {
 	city_name: "Кореновск"
 	
-	city_name_localized: "Кореновск"
+	city_name_localized: "@@korenovsk@@"
 	country: russia
 
 	city_pin_scale_factor[]: 1.0f

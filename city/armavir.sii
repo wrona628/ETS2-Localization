@@ -1,7 +1,7 @@
 city_data:city.armavir
 {
 	city_name: "Армавир"
-	city_name_localized: "Армавир"
+	city_name_localized: "@@armavir@@"
 	country: russia
     
 	city_pin_scale_factor[]: 1.0f
@@ -9,7 +9,7 @@ city_data:city.armavir
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.65f
+	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 0.65f
 	city_pin_scale_factor[]: 0.6f
 	

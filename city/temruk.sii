@@ -2,7 +2,7 @@ city_data:city.temruk
 {
 	city_name: "Темрюк"
 	
-	city_name_localized: "Темрюк"
+	city_name_localized: "@@temruk@@"
 	country: russia
 	
 	city_pin_scale_factor[]: 1.0f

@@ -2,7 +2,7 @@ city_data:city.maykop
 {
 	city_name: "Майкоп"
 	
-	city_name_localized: "Майкоп"
+	city_name_localized: "@@maykop@@"
 	country: russia
 
 	city_pin_scale_factor[]: 1.0f

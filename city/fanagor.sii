@@ -1,7 +1,7 @@
 city_data:city.fanagor
 {
 	city_name: "Фанагорийское"
-	city_name_localized: "Фанагорийское"
+	city_name_localized: "@@fanagor@@"
 	country: russia
 
 	city_pin_scale_factor[]: 1.0f
@@ -9,7 +9,7 @@ city_data:city.fanagor
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.6f
+	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 0.65f
 	city_pin_scale_factor[]: 0.5f
 	

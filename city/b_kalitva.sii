@@ -2,7 +2,7 @@ city_data:city.b_kalitva
 {
 	city_name: "Белая Калитва"
 	
-	city_name_localized: "Белая Калитва"
+	city_name_localized: "@@b_kalitva@@"
 	country: russia
 
 	city_pin_scale_factor[]: 1.0f
@@ -10,7 +10,7 @@ city_data:city.b_kalitva
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.65f
+	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 0.65f
 	city_pin_scale_factor[]: 0.6f
 	

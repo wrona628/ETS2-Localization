@@ -2,7 +2,7 @@ city_data:city.novorossiysk
 {
 	city_name: "Новороссийск"
 	
-	city_name_localized: "Новороссийск"
+	city_name_localized: "@@novorossiysk@@"
 	country: russia
 
 	city_pin_scale_factor[]: 1.0f
@@ -10,7 +10,7 @@ city_data:city.novorossiysk
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.7f
+	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 0.7f
 	city_pin_scale_factor[]: 0.6f
 	

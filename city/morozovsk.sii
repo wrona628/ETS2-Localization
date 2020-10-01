@@ -2,7 +2,7 @@ city_data:city.morozovsk
 {
 	city_name: "Морозовск"
 	
-	city_name_localized: "Морозовск"
+	city_name_localized: "@@morozovsk@@"
 	country: russia
 
 	city_pin_scale_factor[]: 1.0f
@@ -10,7 +10,7 @@ city_data:city.morozovsk
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.65f
+	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 0.65f
 	city_pin_scale_factor[]: 0.6f
 	

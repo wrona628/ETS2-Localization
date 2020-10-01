@@ -2,7 +2,7 @@ city_data:city.teberda
 {
 	city_name: "Теберда"
 	
-	city_name_localized: "Теберда"
+	city_name_localized: "@@teberda@@"
 	country: russia
 
 	city_pin_scale_factor[]: 1.0f
@@ -10,7 +10,7 @@ city_data:city.teberda
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.65f
+	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 0.65f
 	city_pin_scale_factor[]: 0.0f
 	

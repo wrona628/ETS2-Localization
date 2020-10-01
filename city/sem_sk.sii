@@ -2,7 +2,7 @@
 city_data: city.sem_sk
 {
 	city_name: "Семикаракорск"
-	city_name_localized: "Семикаракорск"
+	city_name_localized: "@@sem_sk@@"
 	country: russia
 
 	city_pin_scale_factor[]: 1.0f
@@ -10,7 +10,7 @@ city_data: city.sem_sk
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.7f
+	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 0.7f
 	city_pin_scale_factor[]: 0.6f
 	

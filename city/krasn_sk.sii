@@ -2,7 +2,7 @@ city_data:city.krasn_sk
 {
 	city_name: "Красногвардейское"
 	
-	city_name_localized: "Красногвардейское"
+	city_name_localized: "@@krasn_sk@@"
 	country: russia
 
 	city_pin_scale_factor[]: 1.0f
@@ -10,8 +10,8 @@ city_data:city.krasn_sk
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.4f
-	city_pin_scale_factor[]: 0.0f
+	city_pin_scale_factor[]: 1.0f
+	city_pin_scale_factor[]: 0.65f
 	city_pin_scale_factor[]: 0.4f
 	
 	map_x_offsets[]: 0

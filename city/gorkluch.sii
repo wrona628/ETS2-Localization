@@ -2,7 +2,7 @@ city_data:city.gorkluch
 {
 	city_name: "Горячий Ключ"
 	
-	city_name_localized: "Горячий Ключ"
+	city_name_localized: "@@gorkluch@@"
 	country: russia
 
 	city_pin_scale_factor[]: 1.0f
@@ -10,7 +10,7 @@ city_data:city.gorkluch
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.65f
+	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 0.65f
 	city_pin_scale_factor[]: 0.6f
 	

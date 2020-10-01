@@ -2,7 +2,7 @@ city_data:city.gelendshik
 {
 	city_name: "Геленджик"
 	
-	city_name_localized: "Геленджик"
+	city_name_localized: "@@gelendshik@@"
 	country: russia
 	
 	city_pin_scale_factor[]: 1.0f
@@ -10,7 +10,7 @@ city_data:city.gelendshik
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.65f
+	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 0.65f
 	city_pin_scale_factor[]: 0.6f
 

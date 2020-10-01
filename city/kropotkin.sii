@@ -2,7 +2,7 @@ city_data:city.kropotkin
 {
 	city_name: "Кропоткин"
 	
-	city_name_localized: "Кропоткин"
+	city_name_localized: "@@kropotkin@@"
 	country: russia
 	
 	city_pin_scale_factor[]: 1.0f
@@ -10,7 +10,7 @@ city_data:city.kropotkin
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.65f
+	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 0.65f
 	city_pin_scale_factor[]: 0.6f
 	

@@ -2,7 +2,7 @@ city_data:city.ust_labinsk
 {
 	city_name: "Усть-Лабинск"
 	
-	city_name_localized: "Усть-Лабинск"
+	city_name_localized: "@@ust_labinsk@@"
 	country: russia
 
     city_pin_scale_factor[]: 1.0f
@@ -10,7 +10,7 @@ city_data:city.ust_labinsk
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 1.0f
-	city_pin_scale_factor[]: 0.65f
+	city_pin_scale_factor[]: 1.0f
 	city_pin_scale_factor[]: 0.65f
 	city_pin_scale_factor[]: 0.6f
 	

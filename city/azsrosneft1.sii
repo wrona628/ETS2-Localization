@@ -1,7 +1,7 @@
 city_data:city.azsrosneft1
 {
 	city_name: "АЗС Роснефть N1"
-	city_name_localized: "АЗС Роснефть N1"
+	city_name_localized: "@@rosneft1@@"
 	country: russia
 
 	city_pin_scale_factor[]: 0.5f
@@ -9,7 +9,7 @@ city_data:city.azsrosneft1
 	city_pin_scale_factor[]: 0.0f
 	city_pin_scale_factor[]: 0.0f
 	city_pin_scale_factor[]: 0.0f
-	city_pin_scale_factor[]: 0.0
+	city_pin_scale_factor[]: 0.0f
 	city_pin_scale_factor[]: 0.0f
 	city_pin_scale_factor[]: 0.0f
 	
