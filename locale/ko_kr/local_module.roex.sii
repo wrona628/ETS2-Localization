@@ -9,201 +9,201 @@ localization_db : .localization
 
 	#COUNTRIES
 		key[]: "belarus"
-		val[]: "Belarus"
+		val[]: "벨라루스"
 		
 		key[]: "moldova"
-		val[]: "Moldova"
+		val[]: "몰도바"
 		
 		key[]: "ukraine"
-		val[]: "Ukraine"
+		val[]: "우크라이나"
 
 
 	#CITIES
 		key[]: "antracit"
-		val[]: "Antratsyt"
+		val[]: "안트랩스트"
 
 		key[]: "balt"
-		val[]: "Bălți"
+		val[]: "벌치"
 
 		key[]: "bechet"
-		val[]: "Bechet"
+		val[]: "베케트"
 
 		key[]: "belgorod"
-		val[]: "Belgorod"
+		val[]: "벨고로드"
 
 		key[]: "berdy"
-		val[]: "Berdyans'k"
+		val[]: "베르드얀스크"
 
 		key[]: "bilaterca"
-		val[]: "Bila Tserkva"
+		val[]: "빌라 체르크바"
 
 		key[]: "brad"
-		val[]: "Brad"
+		val[]: "브라드"
 
 		key[]: "buzau"
-		val[]: "Buzău"
+		val[]: "부저우"
 
 		key[]: "chernivtsi"
-		val[]: "Chernivtsi"
+		val[]: "체르니우치"
 
 		key[]: "chernihiv"
-		val[]: "Chernihiv"
+		val[]: "체르니히우"
 
 		key[]: "chornobyl"
-		val[]: "Chornobyl"
+		val[]: "체르노빌"
 
 		key[]: "cherkasy"
-		val[]: "Cherkasy"
+		val[]: "체르카시"
 
 		key[]: "chisina"
-		val[]: "Chişinău"
+		val[]: "키시너우"
 
 		key[]: "dnipro"
-		val[]: "Dnipro"
+		val[]: "드니프로"
 
 		key[]: "donetsk"
-		val[]: "Donetsk"
+		val[]: "도네츠크"
 
 		key[]: "focsani"
-		val[]: "Focşani"
+		val[]: "포크샤니"
 
 		key[]: "ivan_fran"
-		val[]: "Ivano-Frankivsk"
+		val[]: "이바노-프란키우스크"
 
 		key[]: "kherson"
-		val[]: "Kherson"
+		val[]: "헤르손"
 
 		key[]: "kharkiv"
-		val[]: "Kharkiv"
+		val[]: "하르키우"
 
 		key[]: "khmel"
-		val[]: "Khmelnytskyi"
+		val[]: "흐멜니츠키"
 
 		key[]: "kiev"
-		val[]: "Kyiv"
+		val[]: "키이우"
 
 		key[]: "konotop"
-		val[]: "Konotop"
+		val[]: "코노토프"
 
 		key[]: "korostenn"
-		val[]: "Korosten'"
+		val[]: "코로스텐"
 
 		key[]: "kovell"
-		val[]: "Kovel'"
+		val[]: "코벨"
 
 		key[]: "kramatorsk"
-		val[]: "Kramatorsk"
+		val[]: "크라마토르스크"
 
 		key[]: "kremenchuk"
-		val[]: "Kremenchuk"
+		val[]: "크레멘추크"
 
 		key[]: "kropyvnytskyi"
-		val[]: "Kropyvnytskyi"
+		val[]: "크로피우니츠키"
 
 		key[]: "krupets"
-		val[]: "Krupets"
+		val[]: "크루페츠"
 
 		key[]: "kryvy"
-		val[]: "Kryvyi Rih"
+		val[]: "크리비 리흐"
 
 		key[]: "lubny"
-		val[]: "Lubny"
+		val[]: "루브니"
 
 		key[]: "luhansk"
-		val[]: "Luhansk"
+		val[]: "루한스크"
 
 		key[]: "lutsk"
-		val[]: "Lutsk"
+		val[]: "루츠크"
 
 		key[]: "lviv"
-		val[]: "Lviv"
+		val[]: "리비우"
 
 		key[]: "mariupo"
-		val[]: "Mariupol'"
+		val[]: "마리우폴"
 
 		key[]: "melitopol"
-		val[]: "Melitopol'"
+		val[]: "멜리토폴"
 
 		key[]: "mukachevo"
-		val[]: "Mukachevo"
+		val[]: "무카체보"
 
 		key[]: "mykolaiv"
-		val[]: "Mykolaiv"
+		val[]: "미콜라이우"
 
 		key[]: "naroulia"
-		val[]: "Naroulia"
+		val[]: "나로울리아"
 
 		key[]: "novak"
-		val[]: "Nova Kakhovka"
+		val[]: "노바 카호우카"
 
 		key[]: "novogradd"
-		val[]: "Novohrad-Volyns'kyi"
+		val[]: "노보흐라드-볼린스키"
 
 		key[]: "odessa"
-		val[]: "Odessa"
+		val[]: "오데사"
 
 		key[]: "pervom"
-		val[]: "Pervomais'k"
+		val[]: "페르보마이스크"
 
 		key[]: "poltava"
-		val[]: "Poltava"
+		val[]: "폴타바"
 
 		key[]: "oryahovo"
-		val[]: "Oryahovo"
+		val[]: "오랴호보"
 
 		key[]: "ribnita"
-		val[]: "Rîbniţa"
+		val[]: "르브니차"
 
 		key[]: "rivne"
-		val[]: "Rivne"
+		val[]: "리우네"
 
 		key[]: "sarny"
-		val[]: "Sarny"
+		val[]: "사르니"
 
 		key[]: "shepetivka"
-		val[]: "Shepetivka"
+		val[]: "셰페티우카"
 
 		key[]: "sibiu"
-		val[]: "Sibiu"
+		val[]: "시비우"
 
 		key[]: "stryi"
-		val[]: "Stryi"
+		val[]: "스트리"
 
 		key[]: "suceava"
-		val[]: "Suceava"
+		val[]: "수체아바"
 
 		key[]: "sumy"
-		val[]: "Sumy"
+		val[]: "수미"
 
 		key[]: "ternopil"
-		val[]: "Ternopil"
+		val[]: "테르노필"
 
 		key[]: "tgjiu"
-		val[]: "Târgu Jiu"
+		val[]: "트르구 지우"
 
 		key[]: "tiraspol"
-		val[]: "Tiraspol"
+		val[]: "티라스폴"
 
 		key[]: "troyebortnoye"
-		val[]: "Troyebortnoye"
+		val[]: "트로예보르트노예"
 
 		key[]: "uman"
-		val[]: "Uman'"
+		val[]: "우만"
 
 		key[]: "uzhhorod"
-		val[]: "Uzhhorod"
+		val[]: "우즈호로드"
 
 		key[]: "vinnytsia"
-		val[]: "Vinnytsia"
+		val[]: "빈니차"
 
 		key[]: "vozne"
-		val[]: "Voznesens'k"
+		val[]: "보즈네센스크"
 
 		key[]: "zaporizhzhia"
-		val[]: "Zaporizhzhia"
+		val[]: "자포리자"
 
 		key[]: "zhytomyr"
-		val[]: "Zhytomyr"
+		val[]: "지토미르"
 
 }
 }
