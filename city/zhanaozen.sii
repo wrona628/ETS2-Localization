@@ -1,7 +1,7 @@
 
 city_data: city.zhanaozen
 {
-	city_name: "Жаңаөзен"
+	city_name: "Жаңаозен"
 	city_name_localized: "@@zhanaozen@@"
 	country: kazakhstan
 

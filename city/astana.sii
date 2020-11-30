@@ -1,7 +1,7 @@
 
 city_data: city.astana
 {
-	city_name: "Нұр-Сұлтан"
+	city_name: "Нур-Султан"
 	city_name_localized: "@@astana@@"
 	country: kazakhstan
 	key_city: true

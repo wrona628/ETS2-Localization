@@ -1,7 +1,7 @@
 
 city_data: city.karabutak
 {
-	city_name: "Карабұтак"
+	city_name: "Карабутак"
 	city_name_localized: "@@karabutak@@"
 	country: kazakhstan
 

@@ -1,7 +1,7 @@
 
 city_data: city.saiotes
 {
-	city_name: "Сай-Өтес"
+	city_name: "Сай-Oетес"
 	city_name_localized: "@@saiotes@@"
 	country: kazakhstan
 
