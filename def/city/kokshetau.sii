@@ -1,7 +1,7 @@
 
 city_data: city.kokshetau
 {
-	city_name: "Көкшетау"
+	city_name: "Кокшетау"
 	city_name_localized: "@@kokshetau@@"
 	country: kazakhstan
 

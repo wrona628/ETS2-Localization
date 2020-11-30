@@ -105,7 +105,7 @@ localization_db : .localization
 	val[]: "Коктенколь"
 	
 	key[]: "ekibastuz"
-	val[]: "Экибастуз"
+	val[]: "Екібастуз"
 	
 	key[]: "kyzylorda"
 	val[]: "Кызылорда"
@@ -171,7 +171,7 @@ localization_db : .localization
 	val[]: "Аральск"
 
 	key[]: "emba"
-	val[]: "Эмба"
+	val[]: "Ембі"
 	
 	key[]: "shalkar"
 	val[]: "Шалкар"

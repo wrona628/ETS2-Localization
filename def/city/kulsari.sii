@@ -1,7 +1,7 @@
 
 city_data: city.kulsari
 {
-	city_name: "Кұлсары"
+	city_name: "Кулсары"
 	city_name_localized: "@@kulsari@@"
 	country: kazakhstan
 
