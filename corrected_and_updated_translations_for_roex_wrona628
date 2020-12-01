@@ -1,0 +1,232 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	#TIMEZONES
+		key[]: "tz_samt"
+		val[]: "SAMT" #Samara Time
+
+
+	#COUNTRIES
+		key[]: "belarus"
+		val[]: "Białoruś"
+		
+		key[]: "moldova"
+		val[]: "Mołdawia"
+		
+		key[]: "ukraine"
+		val[]: "Ukraina"
+
+
+	#CITIES
+		key[]: "antracit"
+		val[]: "Antracyt"
+
+		key[]: "balt"
+		val[]: "Bielce"
+
+		key[]: "bechet"
+		val[]: "Bechet"
+
+		key[]: "belgorod"
+		val[]: "Biełgorod"
+
+		key[]: "berdy"
+		val[]: "Berdiańsk"
+
+		key[]: "bilaterca"
+		val[]: "Biała Cerkiew"
+
+		key[]: "brad"
+		val[]: "Brad"
+
+		key[]: "buzau"
+		val[]: "Buzau"
+
+		key[]: "chernivtsi"
+		val[]: "Czerniowce"
+
+		key[]: "chernihiv"
+		val[]: "Czernihów"
+
+		key[]: "chornobyl"
+		val[]: "Czarnobyl"
+
+		key[]: "cherkasy"
+		val[]: "Czerkasy"
+
+		key[]: "chisina"
+		val[]: "Kiszynów"
+
+		key[]: "dnipro"
+		val[]: "Dniepropetrowsk"
+
+		key[]: "donetsk"
+		val[]: "Donieck"
+
+		key[]: "focsani"
+		val[]: "Fokszany"
+
+		key[]: "ivan_fran"
+		val[]: "Iwano-Frankiwsk"
+
+		key[]: "kherson"
+		val[]: "Chersoń"
+
+		key[]: "kharkiv"
+		val[]: "Charków"
+
+		key[]: "khmel"
+		val[]: "Chmielnicki"
+
+		key[]: "kiev"
+		val[]: "Kijów"
+
+		key[]: "konotop"
+		val[]: "Konotop"
+
+		key[]: "korostenn"
+		val[]: "Korosteń"
+
+		key[]: "kovell"
+		val[]: "Kowel"
+
+		key[]: "kramatorsk"
+		val[]: "Kramatorsk"
+
+		key[]: "kremenchuk"
+		val[]: "Krzemieńczuk"
+
+		key[]: "kropyvnytskyi"
+		val[]: "Kirowohrad"
+
+		key[]: "krupets"
+		val[]: "Krupets'"
+
+		key[]: "kryvy"
+		val[]: "Krzywy Róg"
+
+		key[]: "lubny"
+		val[]: "Łubnie"
+
+		key[]: "luhansk"
+		val[]: "Ługańsk"
+
+		key[]: "lutsk"
+		val[]: "Łuck"
+
+		key[]: "lviv"
+		val[]: "Lwów"
+
+		key[]: "mariupo"
+		val[]: "Mariupol"
+
+		key[]: "melitopol"
+		val[]: "Melitopol"
+
+		key[]: "mukachevo"
+		val[]: "Mukaczewo"
+
+		key[]: "mykolaiv"
+		val[]: "Mikołajów"
+
+		key[]: "naroulia"
+		val[]: "Narowla"
+
+		key[]: "novak"
+		val[]: "Nowa Kachowka"
+
+		key[]: "novogradd"
+		val[]: "Nowogród Wołyński"
+
+		key[]: "odessa"
+		val[]: "Odessa"
+
+		key[]: "pervom"
+		val[]: "Perwomajsk"
+
+		key[]: "poltava"
+		val[]: "Połtawa"
+
+		key[]: "oryahovo"
+		val[]: "Orjachowo"
+
+		key[]: "ribnita"
+		val[]: "Rybnica"
+
+		key[]: "rivne"
+		val[]: "Równe"
+
+		key[]: "sarny"
+		val[]: "Sarny"
+
+		key[]: "shepetivka"
+		val[]: "Szepietówka"
+
+		key[]: "sibiu"
+		val[]: "Sybin"
+
+		key[]: "stryi"
+		val[]: "Stryj"
+
+		key[]: "suceava"
+		val[]: "Suczawa"
+
+		key[]: "sumy"
+		val[]: "Sumy"
+
+		key[]: "ternopil"
+		val[]: "Tarnopol"
+
+		key[]: "tgjiu"
+		val[]: "Târgu Jiu"
+
+		key[]: "tiraspol"
+		val[]: "Tyraspol"
+
+		key[]: "troyebortnoye"
+		val[]: "Troyebortnoye"
+
+		key[]: "uman"
+		val[]: "Umań"
+
+		key[]: "uzhhorod"
+		val[]: "Użhorod"
+
+		key[]: "vinnytsia"
+		val[]: "Winnica"
+
+		key[]: "vozne"
+		val[]: "Wozneseńsk"
+
+		key[]: "zaporizhzhia"
+		val[]: "Zaporoże"
+
+		key[]: "zhytomyr"
+		val[]: "Żytomierz"
+
+
+
+		key[]: "sevastopol"
+		val[]: "Sewastopol"
+
+		key[]: "simferopol"
+		val[]: "Symferopol"
+
+		key[]: "taman"
+		val[]: "Taman"
+
+		key[]: "kеrch"
+		val[]: "Kercz"
+
+		key[]: "dzhankoi"
+		val[]: "Dżankoj"
+
+		key[]: "feodosia"
+		val[]: "Teodozja"
+
+		key[]: "yalta"
+		val[]: "Jałta"
+
+}
+}
