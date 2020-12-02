@@ -59,7 +59,7 @@ localization_db : .localization
 		val[]: "Kiszynów"
 
 		key[]: "dnipro"
-		val[]: "Dniepropetrowsk"
+		val[]: "Dniepr"
 
 		key[]: "donetsk"
 		val[]: "Donieck"
@@ -98,10 +98,10 @@ localization_db : .localization
 		val[]: "Krzemieńczuk"
 
 		key[]: "kropyvnytskyi"
-		val[]: "Kirowohrad"
+		val[]: "Kropywnycki"
 
 		key[]: "krupets"
-		val[]: "Krupets'"
+		val[]: "Krupiec"
 
 		key[]: "kryvy"
 		val[]: "Krzywy Róg"
@@ -161,7 +161,7 @@ localization_db : .localization
 		val[]: "Sarny"
 
 		key[]: "shepetivka"
-		val[]: "Szepietówka"
+		val[]: "Szepetówka"
 
 		key[]: "sibiu"
 		val[]: "Sybin"
@@ -185,10 +185,10 @@ localization_db : .localization
 		val[]: "Tyraspol"
 
 		key[]: "troyebortnoye"
-		val[]: "Troyebortnoye"
+		val[]: "Trojebotnoje"
 
 		key[]: "uman"
-		val[]: "Umań"
+		val[]: "Humań"
 
 		key[]: "uzhhorod"
 		val[]: "Użhorod"
@@ -197,7 +197,7 @@ localization_db : .localization
 		val[]: "Winnica"
 
 		key[]: "vozne"
-		val[]: "Wozneseńsk"
+		val[]: "Wozniesieńsk"
 
 		key[]: "zaporizhzhia"
 		val[]: "Zaporoże"
@@ -208,25 +208,25 @@ localization_db : .localization
 
 
 		key[]: "sevastopol"
-		val[]: "Sevastopol"
+		val[]: "Sewastopol"
 
 		key[]: "simferopol"
-		val[]: "Simferopol"
+		val[]: "Symferopol"
 
 		key[]: "taman"
 		val[]: "Taman"
 
 		key[]: "kеrch"
-		val[]: "Kеrch"
+		val[]: "Kercz"
 
 		key[]: "dzhankoi"
-		val[]: "Dzhankoi"
+		val[]: "Dżankoj"
 
 		key[]: "feodosia"
-		val[]: "Feodosia"
+		val[]: "Teodozja"
 
 		key[]: "yalta"
-		val[]: "Yalta"
+		val[]: "Jałta"
 
 }
 }
