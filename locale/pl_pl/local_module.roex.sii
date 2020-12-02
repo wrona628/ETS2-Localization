@@ -101,7 +101,7 @@ localization_db : .localization
 		val[]: "Kropywnycki"
 
 		key[]: "krupets"
-		val[]: "Krupeć"
+		val[]: "Krupiec"
 
 		key[]: "kryvy"
 		val[]: "Krzywy Róg"
