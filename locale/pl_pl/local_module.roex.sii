@@ -208,25 +208,25 @@ localization_db : .localization
 
 
 		key[]: "sevastopol"
-		val[]: "Sevastopol"
+		val[]: "Sewastopol"
 
 		key[]: "simferopol"
-		val[]: "Simferopol"
+		val[]: "Symferopol"
 
 		key[]: "taman"
 		val[]: "Taman"
 
 		key[]: "kеrch"
-		val[]: "Kеrch"
+		val[]: "Kercz"
 
 		key[]: "dzhankoi"
-		val[]: "Dzhankoi"
+		val[]: "Dżankoj"
 
 		key[]: "feodosia"
-		val[]: "Feodosia"
+		val[]: "Teodozja"
 
 		key[]: "yalta"
-		val[]: "Yalta"
+		val[]: "Jałta"
 
 }
 }
