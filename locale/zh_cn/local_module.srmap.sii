@@ -1,0 +1,253 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	#TIMEZONES
+		key[]: "tz_samt"
+		val[]: "SAMT" #Samara Time
+
+
+	#COUNTRIES
+		key[]: "russia"
+		val[]: "俄罗斯"
+
+
+	#CITIES
+		key[]: "alder"
+		val[]: "阿尔德"
+
+		key[]: "adygeysk"
+		val[]: "艾捷斯克"
+
+		key[]: "aksay"
+		val[]: "阿克塞"
+
+		key[]: "anapa"
+		val[]: "阿纳帕"
+
+		key[]: "apsheronsk"
+		val[]: "阿普舍龙斯克"
+
+		key[]: "armavir"
+		val[]: "阿马维尔"
+
+		key[]: "ashe"
+		val[]: "阿什"
+
+		key[]: "lukoil1"
+		val[]: "卢克石油公司#1"
+
+		key[]: "rosneft1"
+		val[]: "俄罗斯石油公司#1"
+
+		key[]: "rosneft3"
+		val[]: "俄罗斯石油公司#3"
+
+		key[]: "b_kalitva"
+		val[]: "贝拉亚-卡利特瓦"
+
+		key[]: "belorechensk"
+		val[]: "别洛列琴斯克"
+
+		key[]: "bjedughabl"
+		val[]: "比耶杜哈卜'"
+
+		key[]: "cherkessk"
+		val[]: "切尔克斯克"
+
+		key[]: "chinary"
+		val[]: "齐纳里"
+
+		key[]: "dahovskaya"
+		val[]: "达霍夫斯卡娅"
+
+		key[]: "dombai"
+		val[]: "多姆贝"
+
+		key[]: "dshubga"
+		val[]: "朱巴加"
+
+		key[]: "egorlik"
+		val[]: "叶尔里克斯卡娅"
+
+		key[]: "eisk"
+		val[]: "耶斯克"
+
+		key[]: "enem"
+		val[]: "埃涅姆"
+
+		key[]: "fanagor"
+		val[]: "法纳哥里亚"
+
+		key[]: "gorkluch"
+		val[]: "格里奇-科鲁奇"
+
+		key[]: "guamka"
+		val[]: "古姆卡"
+
+		key[]: "guzeripl"
+		val[]: "古泽里普尔"
+
+		key[]: "haduzhensk"
+		val[]: "哈季真斯克"
+
+		key[]: "hadzhico"
+		val[]: "哈萨尔卡"
+
+		key[]: "kagalnik"
+		val[]: "卡甘林兹卡娅"
+
+		key[]: "kamenomost"
+		val[]: "卡门诺莫斯特斯基"
+
+		key[]: "kamensk"
+		val[]: "卡门斯克-沙卡金斯基"
+
+		key[]: "karachaevsk"
+		val[]: "卡拉恰耶夫斯克"
+
+		key[]: "kirov_ya"
+		val[]: "基洛夫斯卡娅"
+
+		key[]: "korenovsk"
+		val[]: "科列诺夫斯克"
+
+		key[]: "krasn_sk"
+		val[]: "卡拉诺瓦捷斯克"
+
+		key[]: "krasnodar"
+		val[]: "克拉斯诺达尔"
+
+		key[]: "krasnookt"
+		val[]: "克拉斯诺提比耶斯基"
+
+		key[]: "krimsk"
+		val[]: "克里姆斯克"
+
+		key[]: "kropotkin"
+		val[]: "克鲁波特金"
+
+		key[]: "kushevskaya"
+		val[]: "库什切夫斯卡娅"
+
+		key[]: "lazarevskoe"
+		val[]: "拉扎列夫斯科耶"
+
+		key[]: "lermontovo"
+		val[]: "勒蒙托夫"
+
+		key[]: "mamedovashel"
+		val[]: "马梅多夫-谢尔"
+
+		key[]: "maykop"
+		val[]: "梅科普"
+
+		key[]: "mezmai"
+		val[]: "梅兹迈"
+
+		key[]: "minvodu"
+		val[]: "米涅尔-沃迪"
+
+		key[]: "morozovsk"
+		val[]: "莫罗佐夫斯克"
+
+		key[]: "nadzhigo"
+		val[]: "纳吉果"
+
+		key[]: "nevinnomyssk"
+		val[]: "尼维涅米斯克"
+
+		key[]: "nizhegorod"
+		val[]: "下诺夫哥罗德"
+
+		key[]: "nov_aya"
+		val[]: "诺瓦波克罗斯克卡娅"
+
+		key[]: "novoa_sk"
+		val[]: "诺瓦列夫斯克"
+
+		key[]: "novorossiysk"
+		val[]: "诺瓦罗西斯克"
+
+		key[]: "pavlovsk"
+		val[]: "帕夫洛夫斯克"
+
+		key[]: "pavlovskya"
+		val[]: "帕夫洛夫斯卡娅"
+
+		key[]: "perevalgoit"
+		val[]: "哥耶克斯基隘口 [336m]"
+
+		key[]: "prirechnyi"
+		val[]: "皮莱尔什涅"
+
+		key[]: "rostov"
+		val[]: "顿河罗斯托夫"
+
+		key[]: "sem_sk"
+		val[]: "西米卡拉克斯克"
+
+		key[]: "shabanovskoe"
+		val[]: "沙巴诺夫斯科耶"
+
+		key[]: "shahtu"
+		val[]: "沙克耶提"
+
+		key[]: "shaumyan"
+		val[]: "沙缅斯基隘口 [512m]"
+
+		key[]: "shepsi"
+		val[]: "什普西"
+
+		key[]: "slavyansk"
+		val[]: "库班斯拉维扬斯克"
+
+		key[]: "sochi"
+		val[]: "索契"
+
+		key[]: "sovkvadje"
+		val[]: "苏维埃-科瓦奇"
+
+		key[]: "staromin"
+		val[]: "史特拉米斯卡娅"
+
+		key[]: "stavropol"
+		val[]: "斯塔夫罗波尔"
+
+		key[]: "teberda"
+		val[]: "特伯达"
+
+		key[]: "temruk"
+		val[]: "特姆留克"
+
+		key[]: "ticoreck"
+		val[]: "提克霍列茨克"
+
+		key[]: "timashevsk"
+		val[]: "季马舍夫斯克"
+
+		key[]: "tuapse"
+		val[]: "图尔普斯"
+
+		key[]: "ust_labinsk"
+		val[]: "厄斯特-拉宾斯克"
+
+		key[]: "ustdjeguta"
+		val[]: "厄斯特-哲古塔"
+
+		key[]: "varen"
+		val[]: "瓦伦尼科夫斯卡娅"
+
+		key[]: "ver_mara"
+		val[]: "维克尼亚-马拉"
+
+		key[]: "verhnebak"
+		val[]: "维克尼巴尔干斯基"
+
+		key[]: "volg_sk"
+		val[]: "伏尔加东斯克"
+
+		key[]: "volnost"
+		val[]: "沃尔诺斯特"
+}
+}
