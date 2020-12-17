@@ -1,0 +1,205 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	#TIMEZONES
+		key[]: "tz_almt"
+		val[]: "ALMT" #Alma-Ata Time
+
+		key[]: "tz_orat"
+		val[]: "ORAT" #Oral Time
+
+		key[]: "tz_aqtt"
+		val[]: "AQTT" #Aqtobe Time
+
+
+
+	#KAZAHSTAN
+		key[]: "kazakhstan"
+		val[]: "哈萨克斯坦"
+
+
+		key[]: "agadyr"
+		val[]: "阿卡迪尔"
+
+		key[]: "akshat"
+		val[]: "鲁本卡"
+
+		key[]: "akshatau"
+		val[]: "阿克沙陶"
+
+		key[]: "aksuayuly"
+		val[]: "阿克苏阿尤利​​"
+
+		key[]: "aktau"
+		val[]: "阿克套"
+
+		key[]: "aktobe"
+		val[]: "阿克托比"
+
+		key[]: "alga"
+		val[]: "奥尔加"
+
+		key[]: "aralsk"
+		val[]: "阿拉尔斯克"
+
+		key[]: "astana"
+		val[]: "阿斯塔纳"
+
+		key[]: "atasu"
+		val[]: "阿塔苏"
+
+		key[]: "atyrau"
+		val[]: "阿特劳"
+
+		key[]: "balkhash"
+		val[]: "巴尔喀什"
+
+		key[]: "bayanaul"
+		val[]: "巴亚努尔"
+
+		key[]: "beyneu"
+		val[]: "贝纽恩"
+
+		key[]: "botakara"
+		val[]: "博塔卡拉"
+
+		key[]: "dossor"
+		val[]: "多塞尔"
+
+		key[]: "ekibastuz"
+		val[]: "埃基巴斯图兹"
+
+		key[]: "emba"
+		val[]: "艾姆比"
+
+		key[]: "ershov"
+		val[]: "叶尔绍夫"
+
+		key[]: "furmanovo"
+		val[]: "富尔曼诺沃"
+
+		key[]: "inderborsky"
+		val[]: "因德博尔斯基"
+
+		key[]: "kandyagash"
+		val[]: "康提阿什"
+
+		key[]: "karabalyk"
+		val[]: "卡拉巴力克"
+
+		key[]: "karabutak"
+		val[]: "卡拉布塔克"
+
+		key[]: "karaganda"
+		val[]: "卡拉甘达"
+
+		key[]: "karkaralinsk"
+		val[]: "喀拉林斯克"
+
+		key[]: "khromtau"
+		val[]: "克罗姆陶"
+
+		key[]: "kievka"
+		val[]: "基辅卡"
+
+		key[]: "kobda"
+		val[]: "科博达"
+
+		key[]: "kokshetau"
+		val[]: "科克舍陶"
+
+		key[]: "koktenkol"
+		val[]: "科滕科尔'"
+
+		key[]: "korneevka"
+		val[]: "科尔涅夫卡"
+
+		key[]: "kostanay"
+		val[]: "科斯塔奈"
+
+		key[]: "kulsari"
+		val[]: "库尔萨里"
+
+		key[]: "kyzylorda"
+		val[]: "基里罗尔达"
+
+		key[]: "lisakovsk"
+		val[]: "利萨科夫斯克"
+
+		key[]: "makat"
+		val[]: "马卡特"
+
+		key[]: "mangystau"
+		val[]: "曼吉斯托"
+
+		key[]: "molodezhniy"
+		val[]: "摩罗德基尼"
+
+		key[]: "mukur"
+		val[]: "穆库尔"
+
+		key[]: "osakarovka"
+		val[]: "奥萨卡罗夫卡"
+
+		key[]: "rudnyy"
+		val[]: "鲁尼"
+
+		key[]: "saiotes"
+		val[]: "塞奥德斯"
+
+		key[]: "saran"
+		val[]: "萨兰"
+
+		key[]: "shahtinsk"
+		val[]: "沙赫廷斯克"
+
+		key[]: "shalkar"
+		val[]: "沙尔卡尔"
+
+		key[]: "shetpe"
+		val[]: "舍佩"
+
+		key[]: "shubarkuduk"
+		val[]: "舒巴库杜克"
+
+		key[]: "shymkent"
+		val[]: "希姆肯特"
+
+		key[]: "temir"
+		val[]: "特米尔"
+
+		key[]: "temirtau"
+		val[]: "特米尔陶"
+
+		key[]: "tobol"
+		val[]: "托博尔"
+
+		key[]: "turkestan"
+		val[]: "突厥斯坦"
+
+		key[]: "uralsk"
+		val[]: "乌拉尔斯克"
+
+		key[]: "vishnevka"
+		val[]: "维什涅夫卡"
+
+		key[]: "vzletnyy"
+		val[]: "维莱尼"
+
+		key[]: "zatobolsk"
+		val[]: "扎托博尔斯克"
+
+		key[]: "zhanaozen"
+		val[]: "扎瑙岑"
+
+		key[]: "zharik"
+		val[]: "扎里克"
+
+		key[]: "zhezkazgan"
+		val[]: "热兹卡兹甘"
+
+		key[]: "zhympity"
+		val[]: "真比提"
+}
+}
