@@ -1,0 +1,231 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	#TIMEZONES
+		key[]: "tz_samt"
+		val[]: "SAMT" #Samara Time
+
+
+	#COUNTRIES
+		key[]: "belarus"
+		val[]: "白俄罗斯"
+		
+		key[]: "moldova"
+		val[]: "摩尔多瓦"
+		
+		key[]: "ukraine"
+		val[]: "乌克兰"
+
+
+	#CITIES
+		key[]: "antracit"
+		val[]: "安特拉切特"
+
+		key[]: "balt"
+		val[]: "巴尔特"
+
+		key[]: "bechet"
+		val[]: "贝切特"
+
+		key[]: "belgorod"
+		val[]: "别尔哥罗德"
+
+		key[]: "berdy"
+		val[]: "别尔江斯克"
+
+		key[]: "bilaterca"
+		val[]: "比拉特尔卡"
+
+		key[]: "brad"
+		val[]: "布拉德"
+
+		key[]: "buzau"
+		val[]: "布扎乌"
+
+		key[]: "chernivtsi"
+		val[]: "切尔诺夫策"
+
+		key[]: "chernihiv"
+		val[]: "切尔尼戈夫"
+
+		key[]: "chornobyl"
+		val[]: "切尔诺贝利"
+
+		key[]: "cherkasy"
+		val[]: "切尔卡瑟"
+
+		key[]: "chisina"
+		val[]: "基希讷乌"
+
+		key[]: "dnipro"
+		val[]: "第聂伯罗"
+
+		key[]: "donetsk"
+		val[]: "顿涅茨克"
+
+		key[]: "focsani"
+		val[]: "福萨尼"
+
+		key[]: "ivan_fran"
+		val[]: "伊万诺-弗兰科夫斯克"
+
+		key[]: "kherson"
+		val[]: "赫尔森"
+
+		key[]: "kharkiv"
+		val[]: "哈尔基夫"
+
+		key[]: "khmel"
+		val[]: "赫梅利尼茨基"
+
+		key[]: "kiev"
+		val[]: "基辅"
+
+		key[]: "konotop"
+		val[]: "科诺托普"
+
+		key[]: "korostenn"
+		val[]: "克罗斯滕'"
+
+		key[]: "kovell"
+		val[]: "科维尔"
+
+		key[]: "kramatorsk"
+		val[]: "克拉马托斯克"
+
+		key[]: "kremenchuk"
+		val[]: "克雷缅楚克"
+
+		key[]: "kropyvnytskyi"
+		val[]: "克洛皮涅茨克"
+
+		key[]: "krupets"
+		val[]: "克鲁皮特"
+
+		key[]: "kryvy"
+		val[]: "克里维"
+
+		key[]: "lubny"
+		val[]: "洛尼"
+
+		key[]: "luhansk"
+		val[]: "卢汉斯克"
+
+		key[]: "lutsk"
+		val[]: "卢茨克"
+
+		key[]: "lviv"
+		val[]: "利沃夫"
+
+		key[]: "mariupo"
+		val[]: "马里乌波尔'"
+
+		key[]: "melitopol"
+		val[]: "梅利托波尔'"
+
+		key[]: "mukachevo"
+		val[]: "穆卡切沃"
+
+		key[]: "mykolaiv"
+		val[]: "Mykolaiv"
+
+		key[]: "naroulia"
+		val[]: "纳鲁里亚"
+
+		key[]: "novak"
+		val[]: "诺瓦克"
+
+		key[]: "novogradd"
+		val[]: "诺瓦格勒"
+
+		key[]: "odessa"
+		val[]: "奥德萨"
+
+		key[]: "pervom"
+		val[]: "佩尔沃姆"
+
+		key[]: "poltava"
+		val[]: "波尔塔瓦"
+
+		key[]: "oryahovo"
+		val[]: "奥里亚霍沃"
+
+		key[]: "ribnita"
+		val[]: "里比尼亚"
+
+		key[]: "rivne"
+		val[]: "里夫内"
+
+		key[]: "sarny"
+		val[]: "萨尼"
+
+		key[]: "shepetivka"
+		val[]: "谢佩蒂夫卡"
+
+		key[]: "sibiu"
+		val[]: "锡比乌"
+
+		key[]: "stryi"
+		val[]: "斯特里"
+
+		key[]: "suceava"
+		val[]: "苏恰瓦"
+
+		key[]: "sumy"
+		val[]: "苏米"
+
+		key[]: "ternopil"
+		val[]: "捷尔诺波尔"
+
+		key[]: "tgjiu"
+		val[]: "塔古久"
+
+		key[]: "tiraspol"
+		val[]: "提拉斯波尔"
+
+		key[]: "troyebortnoye"
+		val[]: "特洛耶波诺耶"
+
+		key[]: "uman"
+		val[]: "乌曼'"
+
+		key[]: "uzhhorod"
+		val[]: "乌日霍罗德"
+
+		key[]: "vinnytsia"
+		val[]: "文尼察"
+
+		key[]: "vozne"
+		val[]: "沃兹涅"
+
+		key[]: "zaporizhzhia"
+		val[]: "扎波罗热"
+
+		key[]: "zhytomyr"
+		val[]: "日托米尔"
+
+
+
+		key[]: "sevastopol"
+		val[]: "塞瓦斯托波尔"
+
+		key[]: "simferopol"
+		val[]: "辛菲罗波尔"
+
+		key[]: "taman"
+		val[]: "塔曼"
+
+		key[]: "kеrch"
+		val[]: "科尔奇"
+
+		key[]: "dzhankoi"
+		val[]: "詹科伊"
+
+		key[]: "feodosia"
+		val[]: "费奥多西亚"
+
+		key[]: "yalta"
+		val[]: "雅尔塔"
+}
+}
