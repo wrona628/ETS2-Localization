@@ -7,6 +7,9 @@ localization_db : .localization
 	#RUSSIA
 		key[]: "derbent"
 		val[]: "杰尔宾特"
+		
+		key[]: "Makhachkala"
+		val[]: "马哈奇卡拉"		
 	
 	#AZERBAIJAN
 		key[]: "xacmaz"
