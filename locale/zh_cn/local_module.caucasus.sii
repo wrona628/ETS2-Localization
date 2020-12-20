@@ -6,13 +6,13 @@ localization_db : .localization
 
 	#RUSSIA
 		key[]: "derbent"
-		val[]: "Дербент"
-
-		key[]: "makhachkala"
-		val[]: "Махачкала"
+		val[]: "杰尔宾特"
+		
+		key[]: "Makhachkala"
+		val[]: "马哈奇卡拉"		
 	
 	#AZERBAIJAN
 		key[]: "xacmaz"
-		val[]: "Хачмаз"
+		val[]: "哈奇玛兹"
 }
 }
