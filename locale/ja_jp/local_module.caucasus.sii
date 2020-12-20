@@ -1,0 +1,15 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	#TIMEZONES
+
+	#RUSSIA
+		key[]: "derbent"
+		val[]: "デルベント"
+	
+	#AZERBAIJAN
+		key[]: "xacmaz"
+		val[]: "ハチマス"
+}
+}
