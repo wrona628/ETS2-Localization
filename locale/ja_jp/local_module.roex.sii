@@ -9,201 +9,201 @@ localization_db : .localization
 
 	#COUNTRIES
 		key[]: "belarus"
-		val[]: "Belarus"
+		val[]: "ベラルーシ"
 		
 		key[]: "moldova"
-		val[]: "Moldova"
+		val[]: "モルドバ"
 		
 		key[]: "ukraine"
-		val[]: "Ukraine"
+		val[]: "ウクライナ"
 
 
 	#CITIES
 		key[]: "antracit"
-		val[]: "Antratsyt"
+		val[]: "アントラツィト"
 
 		key[]: "balt"
-		val[]: "Bălți"
+		val[]: "バルティ"
 
 		key[]: "bechet"
-		val[]: "Bechet"
+		val[]: "ベケト"
 
 		key[]: "belgorod"
-		val[]: "Belgorod"
+		val[]: "ベルゴロド"
 
 		key[]: "berdy"
-		val[]: "Berdyans'k"
+		val[]: "ベルジャンシク"
 
 		key[]: "bilaterca"
-		val[]: "Bila Tserkva"
+		val[]: "ビラ・ツェルクヴァ"
 
 		key[]: "brad"
-		val[]: "Brad"
+		val[]: "ブラド"
 
 		key[]: "buzau"
-		val[]: "Buzău"
+		val[]: "ブザウ"
 
 		key[]: "chernivtsi"
-		val[]: "Chernivtsi"
+		val[]: "チェルノフツィ"
 
 		key[]: "chernihiv"
-		val[]: "Chernihiv"
+		val[]: "チェルニヒウ"
 
 		key[]: "chornobyl"
-		val[]: "Chornobyl"
+		val[]: "チョルノーブィリ"
 
 		key[]: "cherkasy"
-		val[]: "Cherkasy"
+		val[]: "チェルカッスイ"
 
 		key[]: "chisina"
-		val[]: "Chişinău"
+		val[]: "キシナウ"
 
 		key[]: "dnipro"
-		val[]: "Dnipro"
+		val[]: "ドニエプロペトロフスク"
 
 		key[]: "donetsk"
-		val[]: "Donetsk"
+		val[]: "ドネツク"
 
 		key[]: "focsani"
-		val[]: "Focşani"
+		val[]: "フォクシャニ"
 
 		key[]: "ivan_fran"
-		val[]: "Ivano-Frankivsk"
+		val[]: "イバノフランコフスク"
 
 		key[]: "kherson"
-		val[]: "Kherson"
+		val[]: "ヘルソン"
 
 		key[]: "kharkiv"
-		val[]: "Kharkiv"
+		val[]: "ハリコフ"
 
 		key[]: "khmel"
-		val[]: "Khmelnytskyi"
+		val[]: "フメリヌィーツィクィイ"
 
 		key[]: "kiev"
-		val[]: "Kyiv"
+		val[]: "キエフ"
 
 		key[]: "konotop"
-		val[]: "Konotop"
+		val[]: "コノトプ"
 
 		key[]: "korostenn"
-		val[]: "Korosten'"
+		val[]: "コロステン"
 
 		key[]: "kovell"
-		val[]: "Kovel'"
+		val[]: "コーベリ"
 
 		key[]: "kramatorsk"
-		val[]: "Kramatorsk"
+		val[]: "クラマトルスク"
 
 		key[]: "kremenchuk"
-		val[]: "Kremenchuk"
+		val[]: "クレメンチュグ"
 
 		key[]: "kropyvnytskyi"
-		val[]: "Kropyvnytskyi"
+		val[]: "キロヴォフラート"
 
 		key[]: "krupets"
-		val[]: "Krupets"
+		val[]: "クルペッツィ"
 
 		key[]: "kryvy"
-		val[]: "Kryvyi Rih"
+		val[]: "クリヴィー・リフ"
 
 		key[]: "lubny"
-		val[]: "Lubny"
+		val[]: "ルブヌイ"
 
 		key[]: "luhansk"
-		val[]: "Luhansk"
+		val[]: "ルハンシク"
 
 		key[]: "lutsk"
-		val[]: "Lutsk"
+		val[]: "ルーツク"
 
 		key[]: "lviv"
-		val[]: "Lviv"
+		val[]: "リヴィウ"
 
 		key[]: "mariupo"
-		val[]: "Mariupol'"
+		val[]: "マリウポリ"
 
 		key[]: "melitopol"
-		val[]: "Melitopol'"
+		val[]: "メリトポリ"
 
 		key[]: "mukachevo"
-		val[]: "Mukachevo"
+		val[]: "ムカチェヴォ"
 
 		key[]: "mykolaiv"
-		val[]: "Mykolaiv"
+		val[]: "ムィコラーイウ"
 
 		key[]: "naroulia"
-		val[]: "Naroulia"
+		val[]: "ナロウリャ"
 
 		key[]: "novak"
-		val[]: "Nova Kakhovka"
+		val[]: "ノーバ カホフカ"
 
 		key[]: "novogradd"
-		val[]: "Novohrad-Volyns'kyi"
+		val[]: "ノヴォフラード・ヴォルィーンシクィイ"
 
 		key[]: "odessa"
-		val[]: "Odessa"
+		val[]: "オデッサ"
 
 		key[]: "pervom"
-		val[]: "Pervomais'k"
+		val[]: "ペルボマイスキー"
 
 		key[]: "poltava"
-		val[]: "Poltava"
+		val[]: "ポルタバ"
 
 		key[]: "oryahovo"
-		val[]: "Oryahovo"
+		val[]: "オリャホボ"
 
 		key[]: "ribnita"
-		val[]: "Rîbniţa"
+		val[]: "ルブニツァ"
 
 		key[]: "rivne"
-		val[]: "Rivne"
+		val[]: "リヴネ"
 
 		key[]: "sarny"
-		val[]: "Sarny"
+		val[]: "サルヌイ"
 
 		key[]: "shepetivka"
-		val[]: "Shepetivka"
+		val[]: "シェペティウカ"
 
 		key[]: "sibiu"
-		val[]: "Sibiu"
+		val[]: "シビウ"
 
 		key[]: "stryi"
-		val[]: "Stryi"
+		val[]: "ストルイ"
 
 		key[]: "suceava"
-		val[]: "Suceava"
+		val[]: "スチャバ"
 
 		key[]: "sumy"
-		val[]: "Sumy"
+		val[]: "スムイ"
 
 		key[]: "ternopil"
-		val[]: "Ternopil"
+		val[]: "テルノピリ"
 
 		key[]: "tgjiu"
-		val[]: "Târgu Jiu"
+		val[]: "トゥルグ・ジウ"
 
 		key[]: "tiraspol"
-		val[]: "Tiraspol"
+		val[]: "チラスポリ"
 
 		key[]: "troyebortnoye"
-		val[]: "Troyebortnoye"
+		val[]: "トロエボルトノエ"
 
 		key[]: "uman"
-		val[]: "Uman'"
+		val[]: "ウマニ"
 
 		key[]: "uzhhorod"
-		val[]: "Uzhhorod"
+		val[]: "ウジホロド"
 
 		key[]: "vinnytsia"
-		val[]: "Vinnytsia"
+		val[]: "ヴィーンヌィツャ"
 
 		key[]: "vozne"
-		val[]: "Voznesens'k"
+		val[]: "ボズネセンスク"
 
 		key[]: "zaporizhzhia"
-		val[]: "Zaporizhzhia"
+		val[]: "ザポリージャ"
 
 		key[]: "zhytomyr"
-		val[]: "Zhytomyr"
+		val[]: "ジトーミル"
 
 }
 }

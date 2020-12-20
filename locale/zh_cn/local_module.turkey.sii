@@ -7,34 +7,34 @@ localization_db : .localization
 
 	#COUNTRIES
 		key[]: "georgia"
-		val[]: "Georgia"
+		val[]: "格鲁吉亚"
 
 		key[]: "azerbaijan"
-		val[]: "Azerbaijan"
+		val[]: "阿塞拜疆"
 
 		key[]: "syria"
-		val[]: "Syria"
+		val[]: "叙利亚"
 
 
 	#CITIES
 		key[]: "batumi"
-		val[]: "Batumi"
+		val[]: "巴统"
 
 		key[]: "kutaisi"
-		val[]: "Kutaisi"
+		val[]: "库塔伊西"
 
 		key[]: "tbilisi"
-		val[]: "Tbilisi"
+		val[]: "第比利斯"
 
 
 		key[]: "baku"
-		val[]: "Baku"
+		val[]: "巴库"
 
 		key[]: "gence"
-		val[]: "Ganja"
+		val[]: "占贾"
 
 		key[]: "yevlax"
-		val[]: "Yevlakh"
+		val[]: "耶夫拉克斯"
 
 }
 }

@@ -9,245 +9,245 @@ localization_db : .localization
 
 	#COUNTRIES
 		key[]: "russia"
-		val[]: "Russia"
+		val[]: "ロシア"
 
 
 	#CITIES
 		key[]: "alder"
-		val[]: "Alder"
+		val[]: "アドレル"
 
 		key[]: "adygeysk"
-		val[]: "Adygeysk"
+		val[]: "アディゲイスク"
 
 		key[]: "aksay"
-		val[]: "Aksay"
+		val[]: "アクサイ"
 
 		key[]: "anapa"
-		val[]: "Anapa"
+		val[]: "アナパ"
 
 		key[]: "apsheronsk"
-		val[]: "Apsheronsk"
+		val[]: "アプシェロンスク"
 
 		key[]: "armavir"
-		val[]: "Armavir"
+		val[]: "アルマビル"
 
 		key[]: "ashe"
-		val[]: "Ashe"
+		val[]: "アシェ"
 
 		key[]: "lukoil1"
-		val[]: "Lukoil No.1"
+		val[]: "ルクオイル No.1"
 
 		key[]: "rosneft1"
-		val[]: "Rosneft No.1"
+		val[]: "ロスネフチ No.1"
 
 		key[]: "rosneft3"
-		val[]: "Rosneft No.3"
+		val[]: "ロスネフチ No.3"
 
 		key[]: "b_kalitva"
-		val[]: "Belaya Kalitva"
+		val[]: "ベラヤ・カリトヴァ"
 
 		key[]: "belorechensk"
-		val[]: "Belorechensk"
+		val[]: "ベロレチェンスク"
 
 		key[]: "bjedughabl"
-		val[]: "Bzhedugkhabl'"
+		val[]: "ブジェドゥグハブリ"
 
 		key[]: "cherkessk"
-		val[]: "Cherkessk"
+		val[]: "チェルケスク"
 
 		key[]: "chinary"
-		val[]: "Chinary"
+		val[]: "チナリ"
 
 		key[]: "dahovskaya"
-		val[]: "Dakhovskaya"
+		val[]: "ダホフスカヤ"
 
 		key[]: "dombai"
-		val[]: "Dombay"
+		val[]: "ドムバイ"
 
 		key[]: "dshubga"
-		val[]: "Dzhubga"
+		val[]: "ジュブグスコエ"
 
 		key[]: "egorlik"
-		val[]: "Yegorlykskaya"
+		val[]: "エゴルリクスカヤ"
 
 		key[]: "eisk"
-		val[]: "Yeysk"
+		val[]: "エイスク"
 
 		key[]: "enem"
-		val[]: "Enem"
+		val[]: "エネム"
 
 		key[]: "fanagor"
-		val[]: "Fanagoriyskoye"
+		val[]: "ファナゴリスコエ"
 
 		key[]: "gorkluch"
-		val[]: "Goryachy Klyuch"
+		val[]: "ガリャーチ・クリュチ"
 
 		key[]: "guamka"
-		val[]: "Guamka"
+		val[]: "グアムカ"
 
 		key[]: "guzeripl"
-		val[]: "Guzeripl'"
+		val[]: "グゼリプリ"
 
 		key[]: "haduzhensk"
-		val[]: "Khadyzhensk"
+		val[]: "ハディジェンスク"
 
 		key[]: "hadzhico"
-		val[]: "Khadzhiko"
+		val[]: "ハジコ"
 
 		key[]: "kagalnik"
-		val[]: "Kagalnitskaya"
+		val[]: "カガリニツカヤ"
 
 		key[]: "kamenomost"
-		val[]: "Kamennomostsky"
+		val[]: "カメンノモスツキー"
 
 		key[]: "kamensk"
-		val[]: "Kamensk-Shakhtinsky"
+		val[]: "カメンスク＝シャフチンスキー"
 
 		key[]: "karachaevsk"
-		val[]: "Karachayevsk"
+		val[]: "カラチャエフスク"
 
 		key[]: "kirov_ya"
-		val[]: "Kirovskaya"
+		val[]: "キーロフ"
 
 		key[]: "korenovsk"
-		val[]: "Korenovsk"
+		val[]: "コレノフスク"
 
 		key[]: "krasn_sk"
-		val[]: "Krasnogvardeyskoye"
+		val[]: "クラスノグヴァルデイスコエ"
 
 		key[]: "krasnodar"
-		val[]: "Krasnodar"
+		val[]: "クラスノダール"
 
 		key[]: "krasnookt"
-		val[]: "Krasnooktyabr'skiy"
+		val[]: "クラスノオクチャブリンスキー"
 
 		key[]: "krimsk"
-		val[]: "Krymsk"
+		val[]: "ゴロド・クリムスク"
 
 		key[]: "kropotkin"
-		val[]: "Kropotkin"
+		val[]: "コロポトキン"
 
 		key[]: "kushevskaya"
-		val[]: "Kushchyovskaya"
+		val[]: "クシェフスカヤ"
 
 		key[]: "lazarevskoe"
-		val[]: "Lazarevskoye"
+		val[]: "ラザレフスコエ"
 
 		key[]: "lermontovo"
-		val[]: "Lermontov"
+		val[]: "レルモントフ"
 
 		key[]: "mamedovashel"
-		val[]: "Mamedova Shchel'"
+		val[]: "マメドヴァ・シェリ'"
 
 		key[]: "maykop"
-		val[]: "Maykop"
+		val[]: "マイコープ"
 
 		key[]: "mezmai"
-		val[]: "Mezmay"
+		val[]: "メスマイ"
 
 		key[]: "minvodu"
-		val[]: "Mineralnye Vody"
+		val[]: "ミネラーリヌィエ・ヴォードィ"
 
 		key[]: "morozovsk"
-		val[]: "Morozovsk"
+		val[]: "モロゾフスク"
 
 		key[]: "nadzhigo"
-		val[]: "Nadzhigo"
+		val[]: "ナジヴォ"
 
 		key[]: "nevinnomyssk"
-		val[]: "Nevinnomyssk"
+		val[]: "ネビノムイスク"
 
 		key[]: "nizhegorod"
-		val[]: "Nizhegorodskaya"
+		val[]: "ニジェゴロドスカヤ"
 
 		key[]: "nov_aya"
-		val[]: "Novopokrovskaya"
+		val[]: "ノヴォポクロフスカヤ"
 
 		key[]: "novoa_sk"
-		val[]: "Novoalexandrovsk"
+		val[]: "ノヴォアレクサンドロフスク"
 
 		key[]: "novorossiysk"
-		val[]: "Novorossiysk"
+		val[]: "ノヴォロシスク"
 
 		key[]: "pavlovsk"
-		val[]: "Pavlovskaya"
+		val[]: "パヴロフスカヤ"
 
 		key[]: "pavlovskya"
-		val[]: "Pavlovskaya"
+		val[]: "パヴロフスカヤ"
 
 		key[]: "perevalgoit"
-		val[]: "Goytkhskiy Pereval [336m]"
+		val[]: "ゴイトフスキー・ペレヴァル [336m]"
 
 		key[]: "prirechnyi"
-		val[]: "Prirechnyy"
+		val[]: "プリリェチニ"
 
 		key[]: "rostov"
-		val[]: "Rostov-on-Don"
+		val[]: "ロストフ・ナ・ドヌー"
 
 		key[]: "sem_sk"
-		val[]: "Semikarakorsk"
+		val[]: "セミカラコルスク"
 
 		key[]: "shabanovskoe"
-		val[]: "Shabanovskoye"
+		val[]: "シャバノフスコエ"
 
 		key[]: "shahtu"
-		val[]: "Shakhty"
+		val[]: "シャフティ"
 
 		key[]: "shaumyan"
-		val[]: "Pereval Shaumyanskiy [512m]"
+		val[]: "ペレヴァル・シャウミャンスキー [512m]"
 
 		key[]: "shepsi"
-		val[]: "Shepsi"
+		val[]: "シェプシ"
 
 		key[]: "slavyansk"
-		val[]: "Slavyansk-na-Kubani"
+		val[]: "スラヴャンスク＝ナ＝クバニ"
 
 		key[]: "sochi"
-		val[]: "Sochi"
+		val[]: "ソチ"
 
 		key[]: "sovkvadje"
-		val[]: "Sovet-Kvadzhe"
+		val[]: "ソヴェト＝クヴァジェ"
 
 		key[]: "staromin"
-		val[]: "Starominskaya"
+		val[]: "スタロミンスカヤ"
 
 		key[]: "stavropol"
-		val[]: "Stavropol"
+		val[]: "スタヴロポリ"
 
 		key[]: "teberda"
-		val[]: "Teberda"
+		val[]: "チェベルダ"
 
 		key[]: "temruk"
-		val[]: "Temryuk"
+		val[]: "テムリュク"
 
 		key[]: "ticoreck"
-		val[]: "Tikhoretsk"
+		val[]: "チホレツク"
 
 		key[]: "timashevsk"
-		val[]: "Timashevsk"
+		val[]: "チマシェフスク"
 
 		key[]: "tuapse"
-		val[]: "Tuapse"
+		val[]: "トゥアプセ"
 
 		key[]: "ust_labinsk"
-		val[]: "Ust-Labinsk"
+		val[]: "ウスチ＝ラビンスク"
 
 		key[]: "ustdjeguta"
-		val[]: "Ust-Dzheguta"
+		val[]: "ウスチ＝ジェグタ"
 
 		key[]: "varen"
-		val[]: "Varenikovskaya"
+		val[]: "ヴァレニコフスカヤ"
 
 		key[]: "ver_mara"
-		val[]: "Verkhnyaya Mara"
+		val[]: "ヴェルフナヤ・マラ"
 
 		key[]: "verhnebak"
-		val[]: "Verkhnebakanskiy"
+		val[]: "ヴェルフネバカンスキー"
 
 		key[]: "volg_sk"
-		val[]: "Volgodonsk"
+		val[]: "ボルゴドンスク"
 
 		key[]: "volnost"
-		val[]: "Vol'nost'"
+		val[]: "ヴォリノスチ"
 }
 }
