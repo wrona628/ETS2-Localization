@@ -1,0 +1,253 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	#TIMEZONES
+		key[]: "tz_samt"
+		val[]: "SAMT" #Samara Time
+
+
+	#COUNTRIES
+		key[]: "russia"
+		val[]: "ロシア"
+
+
+	#CITIES
+		key[]: "alder"
+		val[]: "アドレル"
+
+		key[]: "adygeysk"
+		val[]: "アディゲイスク"
+
+		key[]: "aksay"
+		val[]: "アクサイ"
+
+		key[]: "anapa"
+		val[]: "アナパ"
+
+		key[]: "apsheronsk"
+		val[]: "アプシェロンスク"
+
+		key[]: "armavir"
+		val[]: "アルマビル"
+
+		key[]: "ashe"
+		val[]: "アシェ"
+
+		key[]: "lukoil1"
+		val[]: "ルクオイル No.1"
+
+		key[]: "rosneft1"
+		val[]: "ロスネフチ No.1"
+
+		key[]: "rosneft3"
+		val[]: "ロスネフチ No.3"
+
+		key[]: "b_kalitva"
+		val[]: "ベラヤ・カリトヴァ"
+
+		key[]: "belorechensk"
+		val[]: "ベロレチェンスク"
+
+		key[]: "bjedughabl"
+		val[]: "ブジェドゥグハブリ"
+
+		key[]: "cherkessk"
+		val[]: "チェルケスク"
+
+		key[]: "chinary"
+		val[]: "チナリ"
+
+		key[]: "dahovskaya"
+		val[]: "ダホフスカヤ"
+
+		key[]: "dombai"
+		val[]: "ドムバイ"
+
+		key[]: "dshubga"
+		val[]: "ジュブグスコエ"
+
+		key[]: "egorlik"
+		val[]: "エゴルリクスカヤ"
+
+		key[]: "eisk"
+		val[]: "エイスク"
+
+		key[]: "enem"
+		val[]: "エネム"
+
+		key[]: "fanagor"
+		val[]: "ファナゴリスコエ"
+
+		key[]: "gorkluch"
+		val[]: "ガリャーチ・クリュチ"
+
+		key[]: "guamka"
+		val[]: "グアムカ"
+
+		key[]: "guzeripl"
+		val[]: "グゼリプリ"
+
+		key[]: "haduzhensk"
+		val[]: "ハディジェンスク"
+
+		key[]: "hadzhico"
+		val[]: "ハジコ"
+
+		key[]: "kagalnik"
+		val[]: "カガリニツカヤ"
+
+		key[]: "kamenomost"
+		val[]: "カメンノモスツキー"
+
+		key[]: "kamensk"
+		val[]: "カメンスク＝シャフチンスキー"
+
+		key[]: "karachaevsk"
+		val[]: "カラチャエフスク"
+
+		key[]: "kirov_ya"
+		val[]: "キーロフ"
+
+		key[]: "korenovsk"
+		val[]: "コレノフスク"
+
+		key[]: "krasn_sk"
+		val[]: "クラスノグヴァルデイスコエ"
+
+		key[]: "krasnodar"
+		val[]: "クラスノダール"
+
+		key[]: "krasnookt"
+		val[]: "クラスノオクチャブリンスキー"
+
+		key[]: "krimsk"
+		val[]: "ゴロド・クリムスク"
+
+		key[]: "kropotkin"
+		val[]: "コロポトキン"
+
+		key[]: "kushevskaya"
+		val[]: "クシェフスカヤ"
+
+		key[]: "lazarevskoe"
+		val[]: "ラザレフスコエ"
+
+		key[]: "lermontovo"
+		val[]: "レルモントフ"
+
+		key[]: "mamedovashel"
+		val[]: "マメドヴァ・シェリ'"
+
+		key[]: "maykop"
+		val[]: "マイコープ"
+
+		key[]: "mezmai"
+		val[]: "メスマイ"
+
+		key[]: "minvodu"
+		val[]: "ミネラーリヌィエ・ヴォードィ"
+
+		key[]: "morozovsk"
+		val[]: "モロゾフスク"
+
+		key[]: "nadzhigo"
+		val[]: "ナジヴォ"
+
+		key[]: "nevinnomyssk"
+		val[]: "ネビノムイスク"
+
+		key[]: "nizhegorod"
+		val[]: "ニジェゴロドスカヤ"
+
+		key[]: "nov_aya"
+		val[]: "ノヴォポクロフスカヤ"
+
+		key[]: "novoa_sk"
+		val[]: "ノヴォアレクサンドロフスク"
+
+		key[]: "novorossiysk"
+		val[]: "ノヴォロシスク"
+
+		key[]: "pavlovsk"
+		val[]: "パヴロフスカヤ"
+
+		key[]: "pavlovskya"
+		val[]: "パヴロフスカヤ"
+
+		key[]: "perevalgoit"
+		val[]: "ゴイトフスキー・ペレヴァル [336m]"
+
+		key[]: "prirechnyi"
+		val[]: "プリリェチニ"
+
+		key[]: "rostov"
+		val[]: "ロストフ・ナ・ドヌー"
+
+		key[]: "sem_sk"
+		val[]: "セミカラコルスク"
+
+		key[]: "shabanovskoe"
+		val[]: "シャバノフスコエ"
+
+		key[]: "shahtu"
+		val[]: "シャフティ"
+
+		key[]: "shaumyan"
+		val[]: "ペレヴァル・シャウミャンスキー [512m]"
+
+		key[]: "shepsi"
+		val[]: "シェプシ"
+
+		key[]: "slavyansk"
+		val[]: "スラヴャンスク＝ナ＝クバニ"
+
+		key[]: "sochi"
+		val[]: "ソチ"
+
+		key[]: "sovkvadje"
+		val[]: "ソヴェト＝クヴァジェ"
+
+		key[]: "staromin"
+		val[]: "スタロミンスカヤ"
+
+		key[]: "stavropol"
+		val[]: "スタヴロポリ"
+
+		key[]: "teberda"
+		val[]: "チェベルダ"
+
+		key[]: "temruk"
+		val[]: "テムリュク"
+
+		key[]: "ticoreck"
+		val[]: "チホレツク"
+
+		key[]: "timashevsk"
+		val[]: "チマシェフスク"
+
+		key[]: "tuapse"
+		val[]: "トゥアプセ"
+
+		key[]: "ust_labinsk"
+		val[]: "ウスチ＝ラビンスク"
+
+		key[]: "ustdjeguta"
+		val[]: "ウスチ＝ジェグタ"
+
+		key[]: "varen"
+		val[]: "ヴァレニコフスカヤ"
+
+		key[]: "ver_mara"
+		val[]: "ヴェルフナヤ・マラ"
+
+		key[]: "verhnebak"
+		val[]: "ヴェルフネバカンスキー"
+
+		key[]: "volg_sk"
+		val[]: "ボルゴドンスク"
+
+		key[]: "volnost"
+		val[]: "ヴォリノスチ"
+}
+}
