@@ -9,7 +9,7 @@ localization_db : .localization
 
 	#COUNTRIES
 		key[]: "russia"
-		val[]: "Rosja"
+		val[]: "Russia"
 
 
 	#CITIES
@@ -23,18 +23,18 @@ localization_db : .localization
 		val[]: "Sennoi"
 
 		key[]: "sirzan"
-		val[]: "Syzrań"
+		val[]: "Syrzan"
 
 		key[]: "tolyatti"
-		val[]: "Toljatti"
+		val[]: "Tolyatti"
 
 		key[]: "volsk"
-		val[]: "Wolsk"
+		val[]: "Volsk"
 
 		key[]: "zelenovka"
 		val[]: "Zelenovka"
 
 		key[]: "zhigulevsk"
-		val[]: "Żygulowsk"
+		val[]: "Zhigulevsk"
 }
 }

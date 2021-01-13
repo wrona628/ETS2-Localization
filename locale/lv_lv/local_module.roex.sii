@@ -205,5 +205,27 @@ localization_db : .localization
 		key[]: "zhytomyr"
 		val[]: "Zhytomyr"
 
+
+
+		key[]: "sevastopol"
+		val[]: "Sevastopol"
+
+		key[]: "simferopol"
+		val[]: "Simferopol"
+
+		key[]: "taman"
+		val[]: "Taman"
+
+		key[]: "kеrch"
+		val[]: "Kеrch"
+
+		key[]: "dzhankoi"
+		val[]: "Dzhankoi"
+
+		key[]: "feodosia"
+		val[]: "Feodosia"
+
+		key[]: "yalta"
+		val[]: "Yalta"
 }
 }

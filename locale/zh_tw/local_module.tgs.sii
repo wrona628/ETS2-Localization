@@ -16,190 +16,195 @@ localization_db : .localization
 
 	#KAZAHSTAN
 		key[]: "kazakhstan"
-		val[]: "Kazakhstan"
+		val[]: "哈萨克斯坦"
 
 
 		key[]: "agadyr"
-		val[]: "Akadyr"
+		val[]: "阿卡迪尔"
 
 		key[]: "akshat"
-		val[]: "Lubenka"
+		val[]: "鲁本卡"
 
 		key[]: "akshatau"
-		val[]: "Akshatau"
+		val[]: "阿克沙陶"
 
 		key[]: "aksuayuly"
-		val[]: "Aksu-Ayuly"
+		val[]: "阿克苏阿尤利​​"
 
 		key[]: "aktau"
-		val[]: "Aktau"
+		val[]: "阿克套"
 
 		key[]: "aktobe"
-		val[]: "Aktobe"
+		val[]: "阿克托比"
 
 		key[]: "alga"
-		val[]: "Alga"
+		val[]: "奥尔加"
 
 		key[]: "aralsk"
-		val[]: "Aralsk"
+		val[]: "阿拉尔斯克"
 
 		key[]: "astana"
-		val[]: "Nur-Sultan"
+		val[]: "阿斯塔纳"
 
 		key[]: "atasu"
-		val[]: "Atasu"
+		val[]: "阿塔苏"
 
 		key[]: "atyrau"
-		val[]: "Atyrau"
+		val[]: "阿特劳"
 
 		key[]: "balkhash"
-		val[]: "Balkhash"
+		val[]: "巴尔喀什"
 
 		key[]: "bayanaul"
-		val[]: "Bayanaul"
+		val[]: "巴亚努尔"
 
 		key[]: "beyneu"
-		val[]: "Beyneu"
+		val[]: "贝纽恩"
 
 		key[]: "botakara"
-		val[]: "Botakara"
+		val[]: "博塔卡拉"
 
 		key[]: "dossor"
-		val[]: "Dossor"
+		val[]: "多塞尔"
 
 		key[]: "ekibastuz"
-		val[]: "Ekibastuz"
+		val[]: "埃基巴斯图兹"
 
 		key[]: "emba"
-		val[]: "Embi"
+		val[]: "艾姆比"
 
 		key[]: "ershov"
-		val[]: "Yershov"
+		val[]: "叶尔绍夫"
 
 		key[]: "furmanovo"
-		val[]: "Furmanovo"
+		val[]: "富尔曼诺沃"
 
 		key[]: "inderborsky"
-		val[]: "Inderbor"
+		val[]: "因德博尔斯基"
 
 		key[]: "kandyagash"
-		val[]: "Kandyagash"
+		val[]: "康提阿什"
 
 		key[]: "karabalyk"
-		val[]: "Karabalyk"
+		val[]: "卡拉巴力克"
 
 		key[]: "karabutak"
-		val[]: "Karabutak"
+		val[]: "卡拉布塔克"
 
 		key[]: "karaganda"
-		val[]: "Karaganda"
+		val[]: "卡拉甘达"
 
 		key[]: "karkaralinsk"
-		val[]: "Karkaraly"
+		val[]: "喀拉林斯克"
 
 		key[]: "khromtau"
-		val[]: "Khromtau"
+		val[]: "克罗姆陶"
 
 		key[]: "kievka"
-		val[]: "Kievka"
+		val[]: "基辅卡"
 
 		key[]: "kobda"
-		val[]: "Kobda"
+		val[]: "科博达"
 
 		key[]: "kokshetau"
-		val[]: "Kokshetau"
+		val[]: "科克舍陶"
 
 		key[]: "koktenkol"
-		val[]: "Koktenkol'"
+		val[]: "科滕科尔'"
 
 		key[]: "korneevka"
-		val[]: "Korneevka"
+		val[]: "科尔涅夫卡"
 
 		key[]: "kostanay"
-		val[]: "Kostanay"
+		val[]: "科斯塔奈"
 
 		key[]: "kulsari"
-		val[]: "Kulsary"
+		val[]: "库尔萨里"
 
 		key[]: "kyzylorda"
-		val[]: "Kyzylorda"
+		val[]: "基里罗尔达"
 
 		key[]: "lisakovsk"
-		val[]: "Lisakovsk"
+		val[]: "利萨科夫斯克"
 
 		key[]: "makat"
-		val[]: "Makat"
+		val[]: "马卡特"
 
 		key[]: "mangystau"
-		val[]: "Mangystau"
+		val[]: "曼吉斯托"
 
 		key[]: "molodezhniy"
-		val[]: "Molodezhnyy"
+		val[]: "摩罗德基尼"
 
 		key[]: "mukur"
-		val[]: "Mukur"
+		val[]: "穆库尔"
 
 		key[]: "osakarovka"
-		val[]: "Osakarovka"
+		val[]: "奥萨卡罗夫卡"
 
 		key[]: "rudnyy"
-		val[]: "Rudny"
+		val[]: "鲁尼"
 
 		key[]: "saiotes"
-		val[]: "Say-Otes"
+		val[]: "塞奥德斯"
 
 		key[]: "saran"
-		val[]: "Saran"
+		val[]: "萨兰"
 
 		key[]: "shahtinsk"
-		val[]: "Shakhtinsk"
+		val[]: "沙赫廷斯克"
 
 		key[]: "shalkar"
-		val[]: "Shalkar"
+		val[]: "沙尔卡尔"
 
 		key[]: "shetpe"
-		val[]: "Shetpe"
+		val[]: "舍佩"
 
 		key[]: "shubarkuduk"
-		val[]: "Shubarkuduk"
+		val[]: "舒巴库杜克"
 
 		key[]: "shymkent"
-		val[]: "Shymkent"
+		val[]: "希姆肯特"
 
 		key[]: "temir"
-		val[]: "Temir"
+		val[]: "特米尔"
 
 		key[]: "temirtau"
-		val[]: "Temirtau"
+		val[]: "特米尔陶"
 
 		key[]: "tobol"
-		val[]: "Tobol"
+		val[]: "托博尔"
 
 		key[]: "turkestan"
-		val[]: "Turkistan"
+		val[]: "突厥斯坦"
 
 		key[]: "uralsk"
-		val[]: "Oral"
+		val[]: "乌拉尔斯克"
 
 		key[]: "vishnevka"
-		val[]: "Vishnevka"
+		val[]: "维什涅夫卡"
 
 		key[]: "vzletnyy"
-		val[]: "Vzletnyy"
+		val[]: "维莱尼"
 
 		key[]: "zatobolsk"
-		val[]: "Zatobolsk"
+		val[]: "扎托博尔斯克"
 
 		key[]: "zhanaozen"
-		val[]: "Zhanaozen"
+		val[]: "扎瑙岑"
 
 		key[]: "zharik"
-		val[]: "Zharik"
+		val[]: "扎里克"
 
 		key[]: "zhezkazgan"
-		val[]: "Zhezkazgan"
+		val[]: "热兹卡兹甘"
 
 		key[]: "zhympity"
-		val[]: "Zhympity"
+		val[]: "真比提"
+
+		
+	#RUSSIA
+		key[]: "ershov"
+		val[]: "叶尔绍夫"
 }
 }

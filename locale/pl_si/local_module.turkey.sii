@@ -7,10 +7,10 @@ localization_db : .localization
 
 	#COUNTRIES
 		key[]: "georgia"
-		val[]: "Gruzja"
+		val[]: "Georgia"
 
 		key[]: "azerbaijan"
-		val[]: "Azerbejdżan"
+		val[]: "Azerbaijan"
 
 		key[]: "syria"
 		val[]: "Syria"
@@ -31,10 +31,10 @@ localization_db : .localization
 		val[]: "Baku"
 
 		key[]: "gence"
-		val[]: "Gandża"
+		val[]: "Ganja"
 
 		key[]: "yevlax"
-		val[]: "Yevlax"
+		val[]: "Yevlakh"
 
 }
 }

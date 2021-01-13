@@ -15,8 +15,8 @@ localization_db : .localization
 
 
 	#KAZAHSTAN
-		key[]: "kazahstan"
-		val[]: "Kazachstan"
+		key[]: "kazakhstan"
+		val[]: "Kazakhstan"
 
 
 		key[]: "agadyr"
@@ -38,13 +38,13 @@ localization_db : .localization
 		val[]: "Aktobe"
 
 		key[]: "alga"
-		val[]: "Ałga"
+		val[]: "Alga"
 
 		key[]: "aralsk"
 		val[]: "Aralsk"
 
 		key[]: "astana"
-		val[]: "Nur-Sułtan"
+		val[]: "Nur-Sultan"
 
 		key[]: "atasu"
 		val[]: "Atasu"
@@ -53,13 +53,13 @@ localization_db : .localization
 		val[]: "Atyrau"
 
 		key[]: "balkhash"
-		val[]: "Bałchasz"
+		val[]: "Balkhash"
 
 		key[]: "bayanaul"
 		val[]: "Bayanaul"
 
 		key[]: "beyneu"
-		val[]: "Bejneu"
+		val[]: "Beyneu"
 
 		key[]: "botakara"
 		val[]: "Botakara"
@@ -68,13 +68,13 @@ localization_db : .localization
 		val[]: "Dossor"
 
 		key[]: "ekibastuz"
-		val[]: "Jekybastuz"
+		val[]: "Ekibastuz"
 
 		key[]: "emba"
-		val[]: "Jemby"
+		val[]: "Embi"
 
 		key[]: "ershov"
-		val[]: "Jerszow"
+		val[]: "Yershov"
 
 		key[]: "furmanovo"
 		val[]: "Furmanovo"
@@ -83,10 +83,10 @@ localization_db : .localization
 		val[]: "Inderbor"
 
 		key[]: "kandyagash"
-		val[]: "Kandyagasz"
+		val[]: "Kandyagash"
 
 		key[]: "karabalyk"
-		val[]: "Karabałyk"
+		val[]: "Karabalyk"
 
 		key[]: "karabutak"
 		val[]: "Karabutak"
@@ -95,10 +95,10 @@ localization_db : .localization
 		val[]: "Karaganda"
 
 		key[]: "karkaralinsk"
-		val[]: "Karkarały"
+		val[]: "Karkaraly"
 
 		key[]: "khromtau"
-		val[]: "Chromtau"
+		val[]: "Khromtau"
 
 		key[]: "kievka"
 		val[]: "Kievka"
@@ -107,7 +107,7 @@ localization_db : .localization
 		val[]: "Kobda"
 
 		key[]: "kokshetau"
-		val[]: "Kokczetaw"
+		val[]: "Kokshetau"
 
 		key[]: "koktenkol"
 		val[]: "Koktenkol'"
@@ -116,16 +116,16 @@ localization_db : .localization
 		val[]: "Korneevka"
 
 		key[]: "kostanay"
-		val[]: "Kustanaj"
+		val[]: "Kostanay"
 
 		key[]: "kulsari"
-		val[]: "Kułsary"
+		val[]: "Kulsary"
 
 		key[]: "kyzylorda"
-		val[]: "Kyzyłorda"
+		val[]: "Kyzylorda"
 
 		key[]: "lisakovsk"
-		val[]: "Lisakowsk"
+		val[]: "Lisakovsk"
 
 		key[]: "makat"
 		val[]: "Makat"
@@ -143,7 +143,7 @@ localization_db : .localization
 		val[]: "Osakarovka"
 
 		key[]: "rudnyy"
-		val[]: "Rudnyj"
+		val[]: "Rudny"
 
 		key[]: "saiotes"
 		val[]: "Say-Otes"
@@ -152,34 +152,34 @@ localization_db : .localization
 		val[]: "Saran"
 
 		key[]: "shahtinsk"
-		val[]: "Szachtinsk"
+		val[]: "Shakhtinsk"
 
 		key[]: "shalkar"
-		val[]: "Shałkar"
+		val[]: "Shalkar"
 
 		key[]: "shetpe"
 		val[]: "Shetpe"
 
 		key[]: "shubarkuduk"
-		val[]: "Szubarkudyk"
+		val[]: "Shubarkuduk"
 
 		key[]: "shymkent"
-		val[]: "Szymkent"
+		val[]: "Shymkent"
 
 		key[]: "temir"
-		val[]: "Temyr"
+		val[]: "Temir"
 
 		key[]: "temirtau"
-		val[]: "Temyrtau"
+		val[]: "Temirtau"
 
 		key[]: "tobol"
 		val[]: "Tobol"
 
 		key[]: "turkestan"
-		val[]: "Turkiestan"
+		val[]: "Turkistan"
 
 		key[]: "uralsk"
-		val[]: "Uralsk"
+		val[]: "Oral"
 
 		key[]: "vishnevka"
 		val[]: "Vishnevka"
@@ -188,18 +188,23 @@ localization_db : .localization
 		val[]: "Vzletnyy"
 
 		key[]: "zatobolsk"
-		val[]: "Zatoboł"
+		val[]: "Zatobolsk"
 
 		key[]: "zhanaozen"
-		val[]: "Żangaözen"
+		val[]: "Zhanaozen"
 
 		key[]: "zharik"
 		val[]: "Zharik"
 
 		key[]: "zhezkazgan"
-		val[]: "Żezkazgan"
+		val[]: "Zhezkazgan"
 
 		key[]: "zhympity"
 		val[]: "Zhympity"
+
+		
+	#RUSSIA
+		key[]: "ershov"
+		val[]: "Yershov"
 }
 }

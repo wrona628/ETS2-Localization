@@ -9,201 +9,223 @@ localization_db : .localization
 
 	#COUNTRIES
 		key[]: "belarus"
-		val[]: "Białoruś"
+		val[]: "Belarus"
 		
 		key[]: "moldova"
-		val[]: "Mołdawia"
+		val[]: "Moldova"
 		
 		key[]: "ukraine"
-		val[]: "Ukraina"
+		val[]: "Ukraine"
 
 
 	#CITIES
 		key[]: "antracit"
-		val[]: "Antracyt"
+		val[]: "Antratsyt"
 
 		key[]: "balt"
-		val[]: "Bielce"
+		val[]: "Bălți"
 
 		key[]: "bechet"
 		val[]: "Bechet"
 
 		key[]: "belgorod"
-		val[]: "Biełgorod"
+		val[]: "Belgorod"
 
 		key[]: "berdy"
-		val[]: "Berdiańsk"
+		val[]: "Berdyans'k"
 
 		key[]: "bilaterca"
-		val[]: "Biała Cerkiew"
+		val[]: "Bila Tserkva"
 
 		key[]: "brad"
 		val[]: "Brad"
 
 		key[]: "buzau"
-		val[]: "Buzau"
+		val[]: "Buzău"
 
 		key[]: "chernivtsi"
-		val[]: "Czerniowce"
+		val[]: "Chernivtsi"
 
 		key[]: "chernihiv"
-		val[]: "Czernihów"
+		val[]: "Chernihiv"
 
 		key[]: "chornobyl"
-		val[]: "Czarnobyl"
+		val[]: "Chornobyl"
 
 		key[]: "cherkasy"
-		val[]: "Czerkasy"
+		val[]: "Cherkasy"
 
 		key[]: "chisina"
-		val[]: "Kiszynów"
+		val[]: "Chişinău"
 
 		key[]: "dnipro"
-		val[]: "Dniepropetrowsk"
+		val[]: "Dnipro"
 
 		key[]: "donetsk"
-		val[]: "Donieck"
+		val[]: "Donetsk"
 
 		key[]: "focsani"
-		val[]: "Fokszany"
+		val[]: "Focşani"
 
 		key[]: "ivan_fran"
-		val[]: "Iwano-Frankiwsk"
+		val[]: "Ivano-Frankivsk"
 
 		key[]: "kherson"
-		val[]: "Chersoń"
+		val[]: "Kherson"
 
 		key[]: "kharkiv"
-		val[]: "Charków"
+		val[]: "Kharkiv"
 
 		key[]: "khmel"
-		val[]: "Chmielnicki"
+		val[]: "Khmelnytskyi"
 
 		key[]: "kiev"
-		val[]: "Kijów"
+		val[]: "Kyiv"
 
 		key[]: "konotop"
 		val[]: "Konotop"
 
 		key[]: "korostenn"
-		val[]: "Korosteń"
+		val[]: "Korosten'"
 
 		key[]: "kovell"
-		val[]: "Kowel"
+		val[]: "Kovel'"
 
 		key[]: "kramatorsk"
 		val[]: "Kramatorsk"
 
 		key[]: "kremenchuk"
-		val[]: "Krzemieńczuk"
+		val[]: "Kremenchuk"
 
 		key[]: "kropyvnytskyi"
-		val[]: "Kirowohrad"
+		val[]: "Kropyvnytskyi"
 
 		key[]: "krupets"
-		val[]: "Krupets'"
+		val[]: "Krupets"
 
 		key[]: "kryvy"
-		val[]: "Krzywy Róg"
+		val[]: "Kryvyi Rih"
 
 		key[]: "lubny"
-		val[]: "Łubnie"
+		val[]: "Lubny"
 
 		key[]: "luhansk"
-		val[]: "Ługańsk"
+		val[]: "Luhansk"
 
 		key[]: "lutsk"
-		val[]: "Łuck"
+		val[]: "Lutsk"
 
 		key[]: "lviv"
-		val[]: "Lwów"
+		val[]: "Lviv"
 
 		key[]: "mariupo"
-		val[]: "Mariupol"
+		val[]: "Mariupol'"
 
 		key[]: "melitopol"
-		val[]: "Melitopol"
+		val[]: "Melitopol'"
 
 		key[]: "mukachevo"
-		val[]: "Mukaczewo"
+		val[]: "Mukachevo"
 
 		key[]: "mykolaiv"
-		val[]: "Mikołajów"
+		val[]: "Mykolaiv"
 
 		key[]: "naroulia"
-		val[]: "Narowla"
+		val[]: "Naroulia"
 
 		key[]: "novak"
-		val[]: "Nowa Kachowka"
+		val[]: "Nova Kakhovka"
 
 		key[]: "novogradd"
-		val[]: "Nowogród Wołyński"
+		val[]: "Novohrad-Volyns'kyi"
 
 		key[]: "odessa"
 		val[]: "Odessa"
 
 		key[]: "pervom"
-		val[]: "Perwomajsk"
+		val[]: "Pervomais'k"
 
 		key[]: "poltava"
-		val[]: "Połtawa"
+		val[]: "Poltava"
 
 		key[]: "oryahovo"
-		val[]: "Orjachowo"
+		val[]: "Oryahovo"
 
 		key[]: "ribnita"
-		val[]: "Rybnica"
+		val[]: "Rîbniţa"
 
 		key[]: "rivne"
-		val[]: "Równe"
+		val[]: "Rivne"
 
 		key[]: "sarny"
 		val[]: "Sarny"
 
 		key[]: "shepetivka"
-		val[]: "Szepietówka"
+		val[]: "Shepetivka"
 
 		key[]: "sibiu"
-		val[]: "Sybin"
+		val[]: "Sibiu"
 
 		key[]: "stryi"
-		val[]: "Stryj"
+		val[]: "Stryi"
 
 		key[]: "suceava"
-		val[]: "Suczawa"
+		val[]: "Suceava"
 
 		key[]: "sumy"
 		val[]: "Sumy"
 
 		key[]: "ternopil"
-		val[]: "Tarnopol"
+		val[]: "Ternopil"
 
 		key[]: "tgjiu"
 		val[]: "Târgu Jiu"
 
 		key[]: "tiraspol"
-		val[]: "Tyraspol"
+		val[]: "Tiraspol"
 
 		key[]: "troyebortnoye"
 		val[]: "Troyebortnoye"
 
 		key[]: "uman"
-		val[]: "Umań"
+		val[]: "Uman'"
 
 		key[]: "uzhhorod"
-		val[]: "Użhorod"
+		val[]: "Uzhhorod"
 
 		key[]: "vinnytsia"
-		val[]: "Winnica"
+		val[]: "Vinnytsia"
 
 		key[]: "vozne"
-		val[]: "Wozneseńsk"
+		val[]: "Voznesens'k"
 
 		key[]: "zaporizhzhia"
-		val[]: "Zaporoże"
+		val[]: "Zaporizhzhia"
 
 		key[]: "zhytomyr"
-		val[]: "Żytomierz"
+		val[]: "Zhytomyr"
 
+
+
+		key[]: "sevastopol"
+		val[]: "Sevastopol"
+
+		key[]: "simferopol"
+		val[]: "Simferopol"
+
+		key[]: "taman"
+		val[]: "Taman"
+
+		key[]: "kеrch"
+		val[]: "Kеrch"
+
+		key[]: "dzhankoi"
+		val[]: "Dzhankoi"
+
+		key[]: "feodosia"
+		val[]: "Feodosia"
+
+		key[]: "yalta"
+		val[]: "Yalta"
 }
 }

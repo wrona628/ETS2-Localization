@@ -9,51 +9,51 @@ localization_db : .localization
 
 	#COUNTRIES
 		key[]: "russia"
-		val[]: "Rosja"
+		val[]: "Russia"
 
 
 	#CITIES
 		key[]: "alder"
-		val[]: "Adler"
+		val[]: "Alder"
 
 		key[]: "adygeysk"
-		val[]: "Adygejsk"
+		val[]: "Adygeysk"
 
 		key[]: "aksay"
-		val[]: "Aksaj"
+		val[]: "Aksay"
 
 		key[]: "anapa"
 		val[]: "Anapa"
 
 		key[]: "apsheronsk"
-		val[]: "Apszerońsk"
+		val[]: "Apsheronsk"
 
 		key[]: "armavir"
-		val[]: "Armawir"
+		val[]: "Armavir"
 
 		key[]: "ashe"
 		val[]: "Ashe"
 
 		key[]: "lukoil1"
-		val[]: "Lukoil Nr 1"
+		val[]: "Lukoil No.1"
 
 		key[]: "rosneft1"
-		val[]: "Rosneft Nr 1"
+		val[]: "Rosneft No.1"
 
 		key[]: "rosneft3"
-		val[]: "Rosneft Nr 3"
+		val[]: "Rosneft No.3"
 
 		key[]: "b_kalitva"
-		val[]: "Biełaja Kalitwa"
+		val[]: "Belaya Kalitva"
 
 		key[]: "belorechensk"
-		val[]: "Biełorieczieńsk"
+		val[]: "Belorechensk"
 
 		key[]: "bjedughabl"
 		val[]: "Bzhedugkhabl'"
 
 		key[]: "cherkessk"
-		val[]: "Czerkiesk"
+		val[]: "Cherkessk"
 
 		key[]: "chinary"
 		val[]: "Chinary"
@@ -62,25 +62,25 @@ localization_db : .localization
 		val[]: "Dakhovskaya"
 
 		key[]: "dombai"
-		val[]: "Dombaj"
+		val[]: "Dombay"
 
 		key[]: "dshubga"
-		val[]: "Dżubga"
+		val[]: "Dzhubga"
 
 		key[]: "egorlik"
 		val[]: "Yegorlykskaya"
 
 		key[]: "eisk"
-		val[]: "Jejsk"
+		val[]: "Yeysk"
 
 		key[]: "enem"
-		val[]: "Eniem"
+		val[]: "Enem"
 
 		key[]: "fanagor"
 		val[]: "Fanagoriyskoye"
 
 		key[]: "gorkluch"
-		val[]: "Goriaczij Klucz"
+		val[]: "Goryachy Klyuch"
 
 		key[]: "guamka"
 		val[]: "Guamka"
@@ -89,7 +89,7 @@ localization_db : .localization
 		val[]: "Guzeripl'"
 
 		key[]: "haduzhensk"
-		val[]: "Chadyżensk"
+		val[]: "Khadyzhensk"
 
 		key[]: "hadzhico"
 		val[]: "Khadzhiko"
@@ -98,22 +98,22 @@ localization_db : .localization
 		val[]: "Kagalnitskaya"
 
 		key[]: "kamenomost"
-		val[]: "Kamiennomostskij"
+		val[]: "Kamennomostsky"
 
 		key[]: "kamensk"
-		val[]: "Kamieńsk Szachtyński"
+		val[]: "Kamensk-Shakhtinsky"
 
 		key[]: "karachaevsk"
-		val[]: "Karaczajewsk"
+		val[]: "Karachayevsk"
 
 		key[]: "kirov_ya"
 		val[]: "Kirovskaya"
 
 		key[]: "korenovsk"
-		val[]: "Korienowsk"
+		val[]: "Korenovsk"
 
 		key[]: "krasn_sk"
-		val[]: "Krasnogwardiejskoje"
+		val[]: "Krasnogvardeyskoye"
 
 		key[]: "krasnodar"
 		val[]: "Krasnodar"
@@ -134,28 +134,28 @@ localization_db : .localization
 		val[]: "Lazarevskoye"
 
 		key[]: "lermontovo"
-		val[]: "Lermontovo"
+		val[]: "Lermontov"
 
 		key[]: "mamedovashel"
 		val[]: "Mamedova Shchel'"
 
 		key[]: "maykop"
-		val[]: "Majkop"
+		val[]: "Maykop"
 
 		key[]: "mezmai"
 		val[]: "Mezmay"
 
 		key[]: "minvodu"
-		val[]: "Mineralne Wody"
+		val[]: "Mineralnye Vody"
 
 		key[]: "morozovsk"
-		val[]: "Mrozowsk"
+		val[]: "Morozovsk"
 
 		key[]: "nadzhigo"
 		val[]: "Nadzhigo"
 
 		key[]: "nevinnomyssk"
-		val[]: "Niewinnomysk"
+		val[]: "Nevinnomyssk"
 
 		key[]: "nizhegorod"
 		val[]: "Nizhegorodskaya"
@@ -164,13 +164,13 @@ localization_db : .localization
 		val[]: "Novopokrovskaya"
 
 		key[]: "novoa_sk"
-		val[]: "Nowoaleksandrowsk"
+		val[]: "Novoalexandrovsk"
 
 		key[]: "novorossiysk"
-		val[]: "Noworosyjsk"
+		val[]: "Novorossiysk"
 
 		key[]: "pavlovsk"
-		val[]: "Pawłowsk"
+		val[]: "Pavlovskaya"
 
 		key[]: "pavlovskya"
 		val[]: "Pavlovskaya"
@@ -182,7 +182,7 @@ localization_db : .localization
 		val[]: "Prirechnyy"
 
 		key[]: "rostov"
-		val[]: "Rostów nad Donem"
+		val[]: "Rostov-on-Don"
 
 		key[]: "sem_sk"
 		val[]: "Semikarakorsk"
@@ -191,49 +191,49 @@ localization_db : .localization
 		val[]: "Shabanovskoye"
 
 		key[]: "shahtu"
-		val[]: "Szachty"
+		val[]: "Shakhty"
 
 		key[]: "shaumyan"
 		val[]: "Pereval Shaumyanskiy [512m]"
 
 		key[]: "shepsi"
-		val[]: "Szepsi"
+		val[]: "Shepsi"
 
 		key[]: "slavyansk"
-		val[]: "Sławiańsk nad Kubaniem"
+		val[]: "Slavyansk-na-Kubani"
 
 		key[]: "sochi"
-		val[]: "Soczi"
+		val[]: "Sochi"
 
 		key[]: "sovkvadje"
-		val[]: "Sovet-kvadzhe"
+		val[]: "Sovet-Kvadzhe"
 
 		key[]: "staromin"
 		val[]: "Starominskaya"
 
 		key[]: "stavropol"
-		val[]: "Stawropol"
+		val[]: "Stavropol"
 
 		key[]: "teberda"
 		val[]: "Teberda"
 
 		key[]: "temruk"
-		val[]: "Tiemriuk"
+		val[]: "Temryuk"
 
 		key[]: "ticoreck"
-		val[]: "Tichorieck"
+		val[]: "Tikhoretsk"
 
 		key[]: "timashevsk"
-		val[]: "Timaszowsk"
+		val[]: "Timashevsk"
 
 		key[]: "tuapse"
 		val[]: "Tuapse"
 
 		key[]: "ust_labinsk"
-		val[]: "Ust'-Łabińsk"
+		val[]: "Ust-Labinsk"
 
 		key[]: "ustdjeguta"
-		val[]: "Ust´-Dżeguta"
+		val[]: "Ust-Dzheguta"
 
 		key[]: "varen"
 		val[]: "Varenikovskaya"
@@ -245,7 +245,7 @@ localization_db : .localization
 		val[]: "Verkhnebakanskiy"
 
 		key[]: "volg_sk"
-		val[]: "Wołgodońsk"
+		val[]: "Volgodonsk"
 
 		key[]: "volnost"
 		val[]: "Vol'nost'"

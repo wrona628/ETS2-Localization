@@ -201,5 +201,10 @@ localization_db : .localization
 
 		key[]: "zhympity"
 		val[]: "Zhympity"
+
+		
+	#RUSSIA
+		key[]: "ershov"
+		val[]: "Yershov"
 }
 }

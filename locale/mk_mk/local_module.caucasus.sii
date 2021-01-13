@@ -1,0 +1,18 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	#TIMEZONES
+
+	#RUSSIA
+		key[]: "derbent"
+		val[]: "Derbent"
+
+		key[]: "makhachkala"
+		val[]: "Makhachkala"
+
+	#AZERBAIJAN
+		key[]: "xacmaz"
+		val[]: "Khachmaz"
+}
+}
