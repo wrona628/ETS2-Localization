@@ -6,9 +6,9 @@ name: "Казахстан"
 name_localized: "@@kazakhstan@@"
 country_code: "KZ"
 
-pos:(170000, 0, -28000)
+pos:(186285, 0, -51043.9)
 
-fuel_price: 0.44
+fuel_price: 0.45
 
 lights_mandatory: true
 driving_tired_offence: true
