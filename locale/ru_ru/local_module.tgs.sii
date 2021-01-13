@@ -181,6 +181,10 @@ localization_db : .localization
 	
 	key[]: "karabalyk"
 	val[]: "Карабалык"
-	
+
+		
+	#RUSSIA
+		key[]: "ershov"
+		val[]: "Ершов"
 }
 }
