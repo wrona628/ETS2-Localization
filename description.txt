@@ -1,0 +1,24 @@
+﻿[blue]Universal English Localizations for Countries & Cities
+
+[normal]Some map mods do not properly provide localize their names to Enlgish or the local language.
+[normal]This mod aims to fix that and hopefully push forward localization which has existed since v1.33.
+
+[orange]-------------------------------------------------------------------------------------------------------------------
+[green]Supported Mods & Versions:
+
+[orange] The Great Steppe (v1.38)[red] - Missing local names in Kazakh
+[orange] RusMap Ershov Addon [TGS RC] (v2.2.1 & v1.38.1 or newer)[red] - Missing local names in Russian
+[orange] Southern Region (v9.0)[red] - Names not input for localization (hardcoded)
+[orange] Volga Map (v1.2)[red] - Names not input for localization (hardcoded)
+[orange] Project Turkey (v1.2.1)[red] - Missing local names & localization inputs incorrect
+[orange] Romania Extended (v2.8/2.5)[red] - Names not input for localization (hardcoded)
+[orange] Project Caucasus (v1.0)[red] - Missing local names & localization inputs incorrect
+
+
+[red](Issues with orginal mods in red, due to this mod versions are restricted)
+[orange]-------------------------------------------------------------------------------------------------------------------
+[normal]If you want this mod to universally work with any version of the above maps, then please ask the mod author to add localization to their maps properly.
+
+[normal]Information on how to do this can be found in Step 1 here: https://promods.net/viewtopic.php?t=32517
+
+[normal](Step 2 will continue to be handled by this mod, unless the author also wishses to add English localization themselves.)
